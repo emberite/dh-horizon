@@ -1,0 +1,228 @@
+{
+  "_id": "dhhzTblPolitics0",
+  "name": "Sanctuary: Political System (d8)",
+  "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+  "description": "",
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "8TXDLzdl1NifNCWM",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Inherited leadership",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.8TXDLzdl1NifNCWM"
+    },
+    {
+      "_id": "mnUGghqsvfj21coQ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Council of elders",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.mnUGghqsvfj21coQ"
+    },
+    {
+      "_id": "IweXCedLE5nydX8i",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Religious order",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.IweXCedLE5nydX8i"
+    },
+    {
+      "_id": "I3qdj7YTAQb3HRZ8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Military leader",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.I3qdj7YTAQb3HRZ8"
+    },
+    {
+      "_id": "zLMq56aY7vpvj17W",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Merchant guild",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.zLMq56aY7vpvj17W"
+    },
+    {
+      "_id": "HzXJQ61SkORFtrj9",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Family or clan assembly",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.HzXJQ61SkORFtrj9"
+    },
+    {
+      "_id": "AKK5C3EO6MraXamq",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Elected officials",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.AKK5C3EO6MraXamq"
+    },
+    {
+      "_id": "dmGAmukru3MLIMMy",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Multiple (roll twice and combine)",
+      "description": "",
+      "img": "icons/commodities/treasure/crown-gold-laurel-wreath.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblPolitics0.dmGAmukru3MLIMMy"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblPolitics0"
+}

@@ -1,0 +1,178 @@
+{
+  "_id": "dhhzTblSize00000",
+  "name": "Sanctuary: Size (d6)",
+  "img": "icons/environment/settlement/house-two-chimneys.webp",
+  "description": "",
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "QGMq111wokUCKzQ4",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Isolated dwelling",
+      "description": "",
+      "img": "icons/environment/settlement/house-two-chimneys.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblSize00000.QGMq111wokUCKzQ4"
+    },
+    {
+      "_id": "HQTysv2IcCOvCg8w",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Hamlet",
+      "description": "",
+      "img": "icons/environment/settlement/house-two-chimneys.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblSize00000.HQTysv2IcCOvCg8w"
+    },
+    {
+      "_id": "tfbSqFB2Z7MwqdMm",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Village",
+      "description": "",
+      "img": "icons/environment/settlement/house-two-chimneys.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblSize00000.tfbSqFB2Z7MwqdMm"
+    },
+    {
+      "_id": "iO38XvK0ei0BRg2C",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Small town",
+      "description": "",
+      "img": "icons/environment/settlement/house-two-chimneys.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblSize00000.iO38XvK0ei0BRg2C"
+    },
+    {
+      "_id": "vflTOIl1XTcbIvNi",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Large town",
+      "description": "",
+      "img": "icons/environment/settlement/house-two-chimneys.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblSize00000.vflTOIl1XTcbIvNi"
+    },
+    {
+      "_id": "QQ3TfXdO2mt4425J",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "City",
+      "description": "",
+      "img": "icons/environment/settlement/house-two-chimneys.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblSize00000.QQ3TfXdO2mt4425J"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblSize00000"
+}

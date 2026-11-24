@@ -1,0 +1,13 @@
+{
+  "name": "dh-horizon",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-packs.mjs",
+    "tiles": "python3 -I tools/slice-tiles.py ~/Downloads/fantasyhextiles_v3.png assets/tiles",
+    "test": "node --test tests/"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.0"
+  }
+}

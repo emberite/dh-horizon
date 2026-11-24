@@ -1,0 +1,128 @@
+{
+  "_id": "dhhzTblWeather00",
+  "name": "Journey to Horizon: Ocean Weather (d4)",
+  "img": "icons/magic/air/weather-clouds-rain.webp",
+  "description": "",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "6ecHJlKmlu5lJrO5",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "a tailwind",
+      "description": "A tailwind: entering the hex takes a day.",
+      "img": "icons/magic/air/weather-clouds-rain.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblWeather00.6ecHJlKmlu5lJrO5"
+    },
+    {
+      "_id": "oLLkxHtxnCxtfAj4",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "fair weather",
+      "description": "Fair weather: entering the hex takes 2 days.",
+      "img": "icons/magic/air/weather-clouds-rain.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblWeather00.oLLkxHtxnCxtfAj4"
+    },
+    {
+      "_id": "muDFeA1Rw3tzSirq",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "rough waters",
+      "description": "Rough waters: entering the hex takes 3 days.",
+      "img": "icons/magic/air/weather-clouds-rain.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblWeather00.muDFeA1Rw3tzSirq"
+    },
+    {
+      "_id": "C0T7Mh8kFdBBl5V6",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "extreme weather",
+      "description": "Extreme weather: entering the hex takes 4 days.",
+      "img": "icons/magic/air/weather-clouds-rain.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblWeather00.C0T7Mh8kFdBBl5V6"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblWeather00"
+}

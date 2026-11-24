@@ -1,0 +1,278 @@
+{
+  "_id": "dhhzTblDrive0000",
+  "name": "Sanctuary: Drive (d10)",
+  "img": "icons/sundries/flags/banner-flag-white.webp",
+  "description": "",
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "ltkdI2CvJj0AnQcx",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Recognition or redemption",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.ltkdI2CvJj0AnQcx"
+    },
+    {
+      "_id": "NbM1XcWe8An1EFHH",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Holiness or religious purity",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.NbM1XcWe8An1EFHH"
+    },
+    {
+      "_id": "ZYSyZaMWVFLAjoEx",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Preserving tradition",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.ZYSyZaMWVFLAjoEx"
+    },
+    {
+      "_id": "uJzEMCChfY5WtaL6",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Security or protection",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.uJzEMCChfY5WtaL6"
+    },
+    {
+      "_id": "yf8xO7lqbYWeh4aq",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Scientific or magical achievement",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.yf8xO7lqbYWeh4aq"
+    },
+    {
+      "_id": "WNCJWNal4MCK7eeY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Vendetta or rivalry",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.WNCJWNal4MCK7eeY"
+    },
+    {
+      "_id": "cHGQkwHLHUOTHELd",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Prosperity or abundance",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.cHGQkwHLHUOTHELd"
+    },
+    {
+      "_id": "9frTGQekH7Wc0rcN",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "War or conquest",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.9frTGQekH7Wc0rcN"
+    },
+    {
+      "_id": "W9bZ3KzMRUB7FgsP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Survival or expansion",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.W9bZ3KzMRUB7FgsP"
+    },
+    {
+      "_id": "kszDQGDKeK4HFOso",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Knowledge or discovery",
+      "description": "",
+      "img": "icons/sundries/flags/banner-flag-white.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblDrive0000.kszDQGDKeK4HFOso"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblDrive0000"
+}

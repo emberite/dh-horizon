@@ -1,0 +1,90 @@
+{
+  "_id": "dhhzShadowblight",
+  "name": "Shadowblighted",
+  "type": "feature",
+  "img": "icons/magic/unholy/orb-glowing-purple.webp",
+  "system": {
+    "description": "<p>This adversary is corrupted by shadowblight; describe how this manifests in their form or demeanor. When encountered within a shadowblighted region or near a powerful source of shadowblight, this adversary critically succeeds on attacks on a die roll of <strong>18–20</strong>.</p><p><em>Turn on the “Shadowblight Empowered” effect while the adversary is in a shadowblighted region.</em></p>",
+    "featureForm": "passive",
+    "actions": {},
+    "resource": null,
+    "attribution": {
+      "source": "Daggerheart: Hope & Fear",
+      "page": null,
+      "artist": ""
+    },
+    "gmNotes": "",
+    "granter": null,
+    "actorResources": []
+  },
+  "effects": [
+    {
+      "_id": "U0WjK9q3FGNSed9a",
+      "name": "Shadowblight Empowered",
+      "img": "icons/magic/unholy/orb-glowing-purple.webp",
+      "type": "base",
+      "transfer": true,
+      "disabled": true,
+      "statuses": [],
+      "description": "<p>Critically succeeds on attacks on a roll of 18–20 while in a shadowblighted region.</p>",
+      "tint": "#ffffff",
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "changes": [
+          {
+            "key": "system.criticalThreshold",
+            "value": 18,
+            "priority": null,
+            "type": "override",
+            "phase": "initial"
+          }
+        ],
+        "duration": {
+          "description": ""
+        },
+        "rangeDependence": null,
+        "stacking": null,
+        "targetDispositions": [],
+        "conditionals": []
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "start": null,
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!items.effects!dhhzShadowblight.U0WjK9q3FGNSed9a"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!dhhzShadowblight"
+}

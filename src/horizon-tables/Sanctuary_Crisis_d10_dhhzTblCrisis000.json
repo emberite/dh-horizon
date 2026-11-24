@@ -1,0 +1,278 @@
+{
+  "_id": "dhhzTblCrisis000",
+  "name": "Sanctuary: Crisis (d10)",
+  "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+  "description": "",
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "fFJbPk5CsJAVP30Q",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Crime or banditry",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.fFJbPk5CsJAVP30Q"
+    },
+    {
+      "_id": "UQ4msv7hZZGHsBhc",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Famine or drought",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.UQ4msv7hZZGHsBhc"
+    },
+    {
+      "_id": "HMYkRJQyUa2TtdaD",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Disease or plague",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.HMYkRJQyUa2TtdaD"
+    },
+    {
+      "_id": "JcLFIuw2cSjzCC3E",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Flood or fire",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.JcLFIuw2cSjzCC3E"
+    },
+    {
+      "_id": "sUP8YiuIoeisiwgz",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Political strife",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.sUP8YiuIoeisiwgz"
+    },
+    {
+      "_id": "3yfqLMxt1sYtA4Qw",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Religious schism",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.3yfqLMxt1sYtA4Qw"
+    },
+    {
+      "_id": "ddmUeLFPpl1B8Kgu",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Wild beasts or monsters",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.ddmUeLFPpl1B8Kgu"
+    },
+    {
+      "_id": "ED9GYz1I95Gho4JC",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Curse or other magical disaster",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.ED9GYz1I95Gho4JC"
+    },
+    {
+      "_id": "ctVLfjFjm25FCIaO",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Scarcity of a resource vital to key industry or trade",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.ctVLfjFjm25FCIaO"
+    },
+    {
+      "_id": "eVpYLeHD6ghbSuQ8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Hostile neighbors",
+      "description": "",
+      "img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblCrisis000.eVpYLeHD6ghbSuQ8"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblCrisis000"
+}

@@ -1,0 +1,71 @@
+{
+  "_id": "dhhzVesselLight0",
+  "name": "Vessel of Light",
+  "type": "loot",
+  "img": "icons/magic/light/orb-lightbulb-gray.webp",
+  "system": {
+    "description": "<p><em>Created by High Priestess Saraya to securely gather and transport Aurelia’s Soul Echoes.</em> Its nature is for your table to decide: a seemingly mundane object (a carved urn, a large acorn that must be planted in her grave), an obviously magical item of power (a glowing orb hidden under thick velvet), or a child or creature named Echo who must be cared for by the party.</p>\n<p>The Soul Echoes inside are sustained by terrana from the earth and must remain close to the ground lest they fade and perish, so the party can’t significantly shorten their journey by flying across Valloren.</p>\n<p><strong>Locate Soul Echoes:</strong> As a downtime move, commune with the Vessel and have the Echoes within call out to their sisters. You learn the direction (north, south, east, west, or a combination) of the nearest sanctuary with a Soul Echo at its shrine. At the GM’s discretion, this alerts nearby Seekers-in-Shadow of the Vessel’s general direction as well.</p>\n<p>The party levels up each time they add a new Soul Echo to the Vessel. With all ten, they must carry it to the Cliffs of Horizon.</p>",
+    "quantity": 1,
+    "actions": {
+      "dhhzLocateAction": {
+        "_id": "dhhzLocateAction",
+        "type": "effect",
+        "systemPath": "actions",
+        "name": "Locate Soul Echoes",
+        "img": "icons/magic/light/orb-lightbulb-gray.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "self",
+          "amount": null
+        },
+        "effects": [],
+        "range": "",
+        "areas": [],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": []
+      }
+    },
+    "attribution": {
+      "source": "Daggerheart: Hope & Fear",
+      "page": null,
+      "artist": ""
+    },
+    "gmNotes": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dh-horizon": {
+      "vessel": {
+        "action": "dhhzLocateAction"
+      }
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!dhhzVesselLight0"
+}

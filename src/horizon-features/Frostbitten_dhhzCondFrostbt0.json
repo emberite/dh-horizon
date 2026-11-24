@@ -1,0 +1,96 @@
+{
+  "_id": "dhhzCondFrostbt0",
+  "name": "Frostbitten",
+  "type": "feature",
+  "img": "icons/magic/water/snowflake-ice-blue-white.webp",
+  "system": {
+    "description": "<p>From a Terranamancer’s <strong>Ice Spell</strong>. While Frostbitten, a PC gains a −1 penalty to their Proficiency. Spend a Hope to clear the condition.</p>",
+    "featureForm": "passive",
+    "actions": {},
+    "resource": null,
+    "attribution": {
+      "source": "Daggerheart: Hope & Fear",
+      "page": null,
+      "artist": ""
+    },
+    "gmNotes": "",
+    "granter": null,
+    "actorResources": []
+  },
+  "effects": [
+    {
+      "_id": "rLOEhYUXywolwgcq",
+      "name": "Frostbitten",
+      "img": "icons/magic/water/snowflake-ice-blue-white.webp",
+      "type": "base",
+      "transfer": true,
+      "disabled": false,
+      "statuses": [
+        "frostbitten"
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "changes": [
+          {
+            "key": "system.proficiency",
+            "value": -1,
+            "priority": null,
+            "type": "add",
+            "phase": "initial"
+          }
+        ],
+        "duration": {
+          "description": ""
+        },
+        "rangeDependence": null,
+        "stacking": null,
+        "targetDispositions": [],
+        "conditionals": []
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "start": null,
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!items.effects!dhhzCondFrostbt0.rLOEhYUXywolwgcq"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "dh-horizon": {
+      "condition": "frostbitten"
+    }
+  },
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!dhhzCondFrostbt0"
+}

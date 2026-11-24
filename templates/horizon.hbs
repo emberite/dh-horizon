@@ -1,0 +1,245 @@
+<div class="hz-root">
+    <header class="hz-header {{#if art}}has-art{{/if}}" {{#if art}}style="background-image: url('{{art}}')"{{/if}}>
+        <div class="hz-title">
+            <h1>{{localize "DHHZ.App.Heading"}}</h1>
+            {{#if journey}}
+                <div class="hz-echoes" data-tooltip="{{localize 'DHHZ.Journey.Echoes'}}">
+                    {{#each journey.echoPips}}<i class="fa-solid fa-star {{#if this}}lit{{/if}}"></i>{{/each}}
+                    <span>{{localize "DHHZ.Journey.LevelTier" level=journey.level tier=journey.tier}}</span>
+                </div>
+            {{/if}}
+        </div>
+        <nav class="hz-tabs">
+            {{#each tabs}}
+                <button type="button" class="{{#if active}}active{{/if}}" data-action="tab" data-tab="{{id}}"><i class="{{icon}}"></i> {{label}}</button>
+            {{/each}}
+        </nav>
+    </header>
+
+    <section class="hz-scroll">
+        {{!-- ============================== MAP ============================== --}}
+        {{#if (eq tab "map")}}
+            {{#if map}}
+                <div class="hz-card">
+                    <h2>{{sceneName}}</h2>
+                    <div class="hz-stats">
+                        <div><strong>{{map.cols}}×{{map.rows}}</strong><span>{{localize "DHHZ.Map.Size"}}</span></div>
+                        <div><strong>{{map.land}}</strong><span>{{localize "DHHZ.Map.Land"}}</span></div>
+                        <div><strong>{{map.regions}}</strong><span>{{localize "DHHZ.Map.Regions"}}</span></div>
+                        <div><strong>{{map.percent}}%</strong><span>{{localize "DHHZ.Map.Rolled"}}</span></div>
+                        <div><strong>{{map.revealed}}</strong><span>{{localize "DHHZ.Map.Revealed"}}</span></div>
+                        <div><strong>{{map.sanctuaries}}</strong><span>{{localize "DHHZ.Map.Sanctuaries"}}</span></div>
+                    </div>
+                    <p class="hint">{{localize "DHHZ.Map.LazyHint"}}</p>
+                    <div class="hz-buttons">
+                        <button type="button" data-action="viewScene"><i class="fa-solid fa-eye"></i> {{localize "DHHZ.Map.View"}}</button>
+                        <button type="button" data-action="prepareAll"><i class="fa-solid fa-dice-d20"></i> {{localize "DHHZ.Map.PrepareAll"}}</button>
+                        <button type="button" data-action="repaint"><i class="fa-solid fa-paintbrush"></i> {{localize "DHHZ.Map.Repaint"}}</button>
+                    </div>
+                </div>
+            {{/if}}
+            <div class="hz-card">
+                <h2>{{#if map}}{{localize "DHHZ.Map.New"}}{{else}}{{localize "DHHZ.Map.First"}}{{/if}}</h2>
+                <p>{{localize "DHHZ.Map.Intro"}}</p>
+                <div class="hz-form">
+                    <label>{{localize "DHHZ.Map.Name"}}<input type="text" data-draft="name" value="{{draft.name}}" placeholder="{{localize 'DHHZ.Map.SceneName'}}"></label>
+                    <label>{{localize "DHHZ.Map.Cols"}}<input type="number" data-draft="cols" min="12" max="80" value="{{draft.cols}}"></label>
+                    <label>{{localize "DHHZ.Map.Rows"}}<input type="number" data-draft="rows" min="10" max="60" value="{{draft.rows}}"></label>
+                    <label>{{localize "DHHZ.Map.SanctuaryCount"}}<input type="number" data-draft="sanctuaries" min="10" max="120" value="{{draft.sanctuaries}}"></label>
+                    <label>{{localize "DHHZ.Map.Seed"}}<span class="hz-seed"><input type="number" data-draft="seed" value="{{draft.seed}}"><button type="button" data-action="randomSeed" data-tooltip="{{localize 'DHHZ.Map.RandomSeed'}}"><i class="fa-solid fa-shuffle"></i></button></span></label>
+                </div>
+                <div class="hz-buttons">
+                    <button type="button" class="primary" data-action="createMap"><i class="fa-solid fa-wand-magic-sparkles"></i> {{localize "DHHZ.Map.Create"}}</button>
+                </div>
+            </div>
+        {{/if}}
+
+        {{!-- ============================== HEX ============================== --}}
+        {{#if (eq tab "hex")}}
+            <div class="hz-card hz-hex">
+                <div class="hz-hex-head">
+                    <img class="hz-tile" src="{{hex.tile}}" alt="">
+                    <div>
+                        <h2>{{#if hex.sanctuary}}{{hex.sanctuary.name}}{{else if hex.region}}{{localize (concat "DHHZ.Habitat." hex.region.habitat ".Name")}}{{else if hex.land}}{{localize "DHHZ.Hex.Uncharted"}}{{else}}{{localize "DHHZ.Habitat.ocean.Name"}}{{/if}}</h2>
+                        <p class="hint">{{localize "DHHZ.Hex.Coords" coords=hex.coords}} · {{#if hex.revealed}}<i class="fa-solid fa-eye"></i> {{localize "DHHZ.Hex.Revealed"}}{{else}}<i class="fa-solid fa-eye-slash"></i> {{localize "DHHZ.Hex.Hidden"}}{{/if}}{{#if hex.isParty}} · <i class="fa-solid fa-people-group"></i> {{localize "DHHZ.Hex.PartyHere"}}{{/if}}</p>
+                        <p class="hint">{{localize "DHHZ.Hex.PickHint"}}</p>
+                    </div>
+                </div>
+                <div class="hz-buttons">
+                    <button type="button" data-action="selectParty"><i class="fa-solid fa-crosshairs"></i> {{localize "DHHZ.Hex.GoParty"}}</button>
+                    {{#unless hex.isParty}}
+                        <button type="button" data-action="moveParty"><i class="fa-solid fa-person-hiking"></i> {{localize "DHHZ.Hex.Travel"}}</button>
+                        <button type="button" data-action="moveParty" data-silent="true"><i class="fa-solid fa-location-dot"></i> {{localize "DHHZ.Hex.Place"}}</button>
+                    {{/unless}}
+                    {{#if hex.land}}
+                        <button type="button" data-action="toggleReveal"><i class="fa-solid fa-eye"></i> {{localize "DHHZ.Hex.ToggleReveal"}}</button>
+                    {{/if}}
+                </div>
+            </div>
+
+            {{#if hex.region}}
+                <div class="hz-card">
+                    <h3><i class="fa-solid fa-mountain-sun"></i> {{localize "DHHZ.Hex.Region" size=hex.region.size}}</h3>
+                    <div class="hz-form two">
+                        <label>{{localize "DHHZ.Hex.Habitat"}} <small>d20</small>
+                            <select data-edit="habitat">{{#each hex.region.habitats}}<option value="{{value}}" {{#if selected}}selected{{/if}}>{{label}}</option>{{/each}}</select>
+                        </label>
+                        <label class="check"><input type="checkbox" data-edit="blighted" {{#if hex.region.blighted}}checked{{/if}}> {{localize "DHHZ.Hex.Blighted"}}{{#if hex.region.overtaken}} <em>({{localize "DHHZ.Hex.Overtaken"}})</em>{{/if}}</label>
+                        <label>{{localize "DHHZ.Hex.Terrain"}} <small>d4</small>
+                            <select data-edit="terrain">{{#each hex.region.terrains}}<option value="{{value}}" {{#if selected}}selected{{/if}}>{{label}}</option>{{/each}}</select>
+                        </label>
+                        <label>{{localize "DHHZ.Hex.EncounterDie"}}
+                            <select data-edit="encounterDie">{{#each hex.region.dice}}<option value="{{value}}" {{#if selected}}selected{{/if}}>{{label}}</option>{{/each}}</select>
+                        </label>
+                    </div>
+                    <p class="hint">{{hex.region.habitatHint}} {{hex.region.terrainHint}}</p>
+                    {{#if hex.region.spells}}<p class="hint"><i class="fa-solid fa-leaf"></i> {{localize "DHHZ.Hex.Spells"}} {{hex.region.spells}}</p>{{/if}}
+
+                    <label class="hz-block">{{localize "DHHZ.Hex.Encounter"}} <small>d8 + d6</small>
+                        <select data-edit="encounter">{{#each hex.region.encounters}}<option value="{{value}}" {{#if selected}}selected{{/if}}>{{label}}</option>{{/each}}</select>
+                    </label>
+                    <p class="hz-quote">{{hex.region.encounterText}}</p>
+                    <label class="check"><input type="checkbox" data-edit="encounterUsed" {{#if hex.region.encounterUsed}}checked{{/if}}> {{localize "DHHZ.Hex.EncounterUsed"}}</label>
+
+                    <label class="hz-block">{{localize "DHHZ.Hex.Rumor"}} <small>d100</small>
+                        <input type="number" min="1" max="100" data-edit="rumor" value="{{hex.region.rumor}}">
+                    </label>
+                    <p class="hz-quote">{{hex.region.rumorText}}{{#if hex.region.rumorKnown}} <em>({{localize "DHHZ.Hex.RumorKnown"}})</em>{{/if}}</p>
+
+                    <label class="hz-block">{{localize "DHHZ.Hex.Notes"}}
+                        <textarea data-edit="notes" rows="3" placeholder="{{localize 'DHHZ.Hex.NotesHint'}}">{{hex.region.notes}}</textarea>
+                    </label>
+                    <div class="hz-buttons">
+                        <button type="button" data-action="rerollRegion"><i class="fa-solid fa-dice"></i> {{localize "DHHZ.Hex.Reroll"}}</button>
+                        <button type="button" data-action="newRegion"><i class="fa-solid fa-scissors"></i> {{localize "DHHZ.Hex.Split"}}</button>
+                        <button type="button" data-action="revealRegion"><i class="fa-solid fa-eye"></i> {{localize "DHHZ.Hex.RevealRegion"}}</button>
+                    </div>
+                </div>
+            {{else if hex.land}}
+                <div class="hz-card">
+                    <p>{{localize "DHHZ.Hex.NoRegion"}}</p>
+                    <div class="hz-buttons"><button type="button" data-action="newRegion"><i class="fa-solid fa-dice-d20"></i> {{localize "DHHZ.Hex.RollRegion"}}</button></div>
+                </div>
+            {{/if}}
+
+            {{#if hex.land}}
+                <div class="hz-card">
+                    {{#if hex.sanctuary}}
+                        <h3><i class="fa-solid fa-tree-city"></i> {{localize "DHHZ.Sanctuary.Title"}}</h3>
+                        <label class="hz-block">{{localize "DHHZ.Sanctuary.Name"}}<input type="text" data-edit="sanctuaryName" value="{{hex.sanctuary.name}}"></label>
+                        {{#if hex.sanctuary.fixed}}
+                            <p class="hint">{{localize (concat "DHHZ.Sanctuary.Fixed." hex.sanctuary.fixed)}}</p>
+                        {{else}}
+                            {{#if hex.sanctuary.rows}}
+                                <table class="hz-table">
+                                    {{#each hex.sanctuary.rows}}<tr><th>{{label}}</th><td class="die">{{die}}: {{value}}</td><td>{{text}}</td></tr>{{/each}}
+                                </table>
+                            {{/if}}
+                            <div class="hz-echo-line {{#if hex.sanctuary.echo}}has{{/if}}">
+                                <i class="fa-solid fa-star"></i>
+                                {{#if hex.sanctuary.echo}}{{#if hex.sanctuary.collected}}{{localize "DHHZ.Sanctuary.EchoCollected"}}{{else}}{{localize "DHHZ.Sanctuary.EchoHere"}}{{/if}}{{else}}{{localize "DHHZ.Sanctuary.NoEcho"}}{{/if}}
+                            </div>
+                        {{/if}}
+                        <label class="hz-block">{{localize "DHHZ.Hex.Notes"}}<textarea data-edit="sanctuaryNotes" rows="3" placeholder="{{localize 'DHHZ.Sanctuary.NotesHint'}}">{{hex.sanctuary.notes}}</textarea></label>
+                        <div class="hz-buttons">
+                            {{#unless hex.sanctuary.fixed}}
+                                <button type="button" data-action="rollSanctuary"><i class="fa-solid fa-dice"></i> {{localize "DHHZ.Sanctuary.Roll"}}</button>
+                                <button type="button" data-action="toggleEcho"><i class="fa-solid fa-star"></i> {{#if hex.sanctuary.echo}}{{localize "DHHZ.Sanctuary.RemoveEcho"}}{{else}}{{localize "DHHZ.Sanctuary.PlaceEcho"}}{{/if}}</button>
+                                <button type="button" data-action="toggleSanctuary"><i class="fa-solid fa-trash"></i> {{localize "DHHZ.Sanctuary.Remove"}}</button>
+                            {{/unless}}
+                            {{#if hex.sanctuary.canCollect}}
+                                <button type="button" class="primary" data-action="collectEcho"><i class="fa-solid fa-star"></i> {{localize "DHHZ.Sanctuary.Collect"}}</button>
+                            {{/if}}
+                        </div>
+                    {{else}}
+                        <div class="hz-buttons"><button type="button" data-action="toggleSanctuary"><i class="fa-solid fa-tree-city"></i> {{localize "DHHZ.Sanctuary.Add"}}</button></div>
+                    {{/if}}
+                </div>
+            {{/if}}
+        {{/if}}
+
+        {{!-- ============================== JOURNEY ============================== --}}
+        {{#if (eq tab "journey")}}
+            {{#if journey}}
+                <div class="hz-card hz-where">
+                    <img class="hz-tile" src="{{journey.tile}}" alt="">
+                    <div>
+                        <h2>{{journey.where}}</h2>
+                        <p class="hint">{{#if journey.atSanctuary}}<i class="fa-solid fa-tree-city"></i> {{localize "DHHZ.Journey.InSanctuary"}}{{else}}{{journey.terrain}}{{/if}}</p>
+                        <div class="hz-stats">
+                            <div><strong>{{journey.days}}</strong><span>{{localize "DHHZ.Journey.Days"}}</span></div>
+                            <div><strong>{{journey.hexes}}</strong><span>{{localize "DHHZ.Journey.Hexes"}}</span></div>
+                            <div><strong>{{journey.echoes}}/10</strong><span>{{localize "DHHZ.Journey.Echoes"}}</span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hz-card">
+                    <h3><i class="fa-solid fa-campground"></i> {{localize "DHHZ.Journey.Rests"}}</h3>
+                    <div class="hz-rests">
+                        {{#each journey.restPips}}<span class="hz-pip {{#if this}}on{{/if}}"></span>{{/each}}
+                        <span>{{localize "DHHZ.Journey.ShortRests" n=journey.shortRests max=journey.maxShort}}</span>
+                    </div>
+                    <p class="hint">{{#if journey.atSanctuary}}{{localize "DHHZ.Journey.LongHere"}}{{else if journey.canShort}}{{localize "DHHZ.Journey.ShortOnly"}}{{else}}{{localize "DHHZ.Rest.NeedLong"}}{{/if}}</p>
+                    {{#if gm}}
+                        <div class="hz-buttons">
+                            <button type="button" data-action="rest" data-kind="short" {{#unless journey.canShort}}disabled{{/unless}}><i class="fa-solid fa-mug-hot"></i> {{localize "DHHZ.Journey.ShortRest"}}</button>
+                            <button type="button" data-action="rest" data-kind="long" {{#unless journey.atSanctuary}}disabled{{/unless}}><i class="fa-solid fa-bed"></i> {{localize "DHHZ.Journey.LongRest"}}</button>
+                        </div>
+                    {{/if}}
+                </div>
+                <div class="hz-card">
+                    <h3><i class="fa-solid fa-compass"></i> {{localize "DHHZ.Journey.Travel"}}</h3>
+                    {{#if gm}}
+                        <label class="hz-block">{{localize "DHHZ.Journey.Mode"}}
+                            <select data-journey="mode">{{#each journey.modes}}<option value="{{value}}" {{#if selected}}selected{{/if}}>{{label}}</option>{{/each}}</select>
+                        </label>
+                        <p class="hint">{{localize "DHHZ.Journey.MoveHint"}}</p>
+                        {{#if journey.nearest}}<p class="hint"><i class="fa-solid fa-star"></i> {{journey.nearest}}</p>{{/if}}
+                    {{else}}
+                        <p class="hint">{{localize "DHHZ.Journey.PlayerHint"}}</p>
+                    {{/if}}
+                    <div class="hz-buttons">
+                        <button type="button" data-action="locate"><i class="fa-solid fa-compass"></i> {{localize "DHHZ.Downtime.Locate.Name"}}</button>
+                    </div>
+                    {{#if journey.endurance}}<p class="hint"><i class="fa-solid fa-heart-pulse"></i> {{localize "DHHZ.Journey.EnduranceOn"}}</p>{{/if}}
+                </div>
+                {{#if journey.log.length}}
+                    <div class="hz-card">
+                        <h3><i class="fa-solid fa-scroll"></i> {{localize "DHHZ.Journey.Log"}}</h3>
+                        <ol class="hz-log">
+                            {{#each journey.log}}
+                                <li><span>{{place}}</span>{{#if mode}} <em>{{mode}}</em>{{/if}}<span class="hz-days">+{{days}} → {{total}}</span>{{#if encounter}}<span class="hz-enc"><i class="fa-solid fa-bolt"></i> {{encounter}}</span>{{/if}}</li>
+                            {{/each}}
+                        </ol>
+                    </div>
+                {{/if}}
+            {{else}}
+                <div class="hz-card"><p>{{localize "DHHZ.Journey.NoMap"}}</p></div>
+            {{/if}}
+        {{/if}}
+
+        {{!-- ============================== DOOM ============================== --}}
+        {{#if (eq tab "doom")}}
+            <div class="hz-card hz-doom-intro">
+                <p>{{localize "DHHZ.Doom.Intro"}}</p>
+                {{#if gm}}
+                    <p class="hint">{{localize "DHHZ.Doom.GMHint"}}</p>
+                    <div class="hz-buttons">
+                        <button type="button" class="primary" data-action="endSession"><i class="fa-solid fa-flag-checkered"></i> {{localize "DHHZ.Doom.EndSession"}}</button>
+                        {{#if hasHF}}<button type="button" data-action="openRules" data-page="doomTrack"><i class="fa-solid fa-book"></i> {{localize "DHHZ.Doom.Rules"}}</button>{{/if}}
+                        <button type="button" data-action="resetDoom"><i class="fa-solid fa-rotate-left"></i> {{localize "DHHZ.Doom.Reset"}}</button>
+                    </div>
+                {{/if}}
+            </div>
+            {{#each doom.tiers}}
+                <div class="hz-card hz-tier {{#if current}}current{{/if}} {{#if locked}}locked{{/if}}">
+                    <h3>{{localize "DHHZ.Doom.Tier" n=n}}{{#if current}} <span class="hz-badge">{{localize "DHHZ.Doom.PartyTier"}}</span>{{/if}}</h3>
+                    <ul class="hz-boxes">
+                        {{#each boxes}}{{> "dhhz-doom-box" this gm=../../gm}}{{/each}}
+                    </ul>
+                    {{#if ../gm}}<button type="button" class="hz-add" data-action="addDoom" data-tier="{{n}}"><i class="fa-solid fa-plus"></i> {{localize "DHHZ.Doom.Add"}}</button>{{/if}}
+                </div>
+            {{/each}}
+        {{/if}}
+    </section>
+</div>

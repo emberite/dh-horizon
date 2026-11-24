@@ -1,0 +1,2528 @@
+{
+  "_id": "dhhzTblRumors000",
+  "name": "Journey to Horizon: Rumors (d100)",
+  "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+  "description": "<p>A hook for a region. It could be any mixture of true or false—you decide, and you decide whether anyone in the party is aware of it.</p>",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "zRwXz2TOqE9h5zyu",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Rumor 01",
+      "description": "Dire fauna and carnivorous flora two or three times their normal size live here.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.zRwXz2TOqE9h5zyu"
+    },
+    {
+      "_id": "m87gaMPVZLbEegsU",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Rumor 02",
+      "description": "A black obelisk hums with the sorrowful voices of missing travelers.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.m87gaMPVZLbEegsU"
+    },
+    {
+      "_id": "NU1ILiWerPxgp3DB",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Rumor 03",
+      "description": "A beast of bone and shadow stalks old ruins, calling out in the voice of a child.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.NU1ILiWerPxgp3DB"
+    },
+    {
+      "_id": "yxagmAx00DZe22Zp",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Rumor 04",
+      "description": "A village that once burned down reappears in the light of the full moon.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.yxagmAx00DZe22Zp"
+    },
+    {
+      "_id": "UgiZUwyVxg0FfT6Y",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Rumor 05",
+      "description": "A ruined wizard’s tower holds books about the long-ago, the never-was, and the soon-to-be.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.UgiZUwyVxg0FfT6Y"
+    },
+    {
+      "_id": "SWrdZJ22bGXaZ9pO",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Rumor 06",
+      "description": "Geysers of wild magic erupt arrhythmically—random effects surge when spells are cast nearby.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.SWrdZJ22bGXaZ9pO"
+    },
+    {
+      "_id": "IoYYUMdYruL7AOgC",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Rumor 07",
+      "description": "A caravan travels an endless circuit, trading memories instead of coin.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.IoYYUMdYruL7AOgC"
+    },
+    {
+      "_id": "wBjZ20JfQySOLZK3",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Rumor 08",
+      "description": "The local wildlife knows the secret and safe pathways through this region.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.wBjZ20JfQySOLZK3"
+    },
+    {
+      "_id": "FNqaVhbU4E91B2zi",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Rumor 09",
+      "description": "A crystal canyon hums with unstable psychic reverberations, invading dreams with unwanted visions.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.FNqaVhbU4E91B2zi"
+    },
+    {
+      "_id": "aPSGUumYqNb3a0FT",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Rumor 10",
+      "description": "A shadowblighted knight challenges travelers to mortal combat. His curse is laid on whomever slays him.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.aPSGUumYqNb3a0FT"
+    },
+    {
+      "_id": "zN01uGr2vgbBs8XI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Rumor 11",
+      "description": "A bell tolls at midnight, though no source can be found.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.zN01uGr2vgbBs8XI"
+    },
+    {
+      "_id": "4kxAVJdSZk5lX1y4",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "name": "Rumor 12",
+      "description": "Lights flicker in the windows of a drowned city.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.4kxAVJdSZk5lX1y4"
+    },
+    {
+      "_id": "XZazXui3ZFJ0j8X2",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "name": "Rumor 13",
+      "description": "A broken bridge leads to another time.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.XZazXui3ZFJ0j8X2"
+    },
+    {
+      "_id": "0OxM3oshLs1dNDOd",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "name": "Rumor 14",
+      "description": "A harpist made of light appears at a crossroads and demands a song in exchange for safe passage.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.0OxM3oshLs1dNDOd"
+    },
+    {
+      "_id": "gSlek8JJvwnLdski",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "name": "Rumor 15",
+      "description": "A storm of shadowblight hunts travelers like a thinking beast.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.gSlek8JJvwnLdski"
+    },
+    {
+      "_id": "fOS90wEizHwdADgo",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "name": "Rumor 16",
+      "description": "The earthquakes here are echoes of a chained giant’s nightmares.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.fOS90wEizHwdADgo"
+    },
+    {
+      "_id": "DpGSkv1bMeRTVZfa",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "name": "Rumor 17",
+      "description": "A storm of embers perpetually drifts overhead.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.DpGSkv1bMeRTVZfa"
+    },
+    {
+      "_id": "n7WzvpllrSTeaJqU",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "name": "Rumor 18",
+      "description": "A ring of laughing mushrooms shares secrets with anyone brave enough to enter it.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.n7WzvpllrSTeaJqU"
+    },
+    {
+      "_id": "xFxLVG0aeixAoxlX",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "name": "Rumor 19",
+      "description": "Everything here appears translucent, as though only half real.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.xFxLVG0aeixAoxlX"
+    },
+    {
+      "_id": "rDYB082RunNJwcZ5",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "name": "Rumor 20",
+      "description": "Travelers hear lullabies sung by unseen mothers.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.rDYB082RunNJwcZ5"
+    },
+    {
+      "_id": "nMQF1vpgLn5w4bgG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "name": "Rumor 21",
+      "description": "A cloaked figure pays gold for tales of grief—no one knows why.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.nMQF1vpgLn5w4bgG"
+    },
+    {
+      "_id": "H08iLKUe1ryCvsBI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "name": "Rumor 22",
+      "description": "A sword of living fire fell into the earth here. No one has yet been strong enough to pull it from the ground.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.H08iLKUe1ryCvsBI"
+    },
+    {
+      "_id": "gG1u8VoMmElSjZwG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "name": "Rumor 23",
+      "description": "A new caravan route allows trade and safety in numbers.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.gG1u8VoMmElSjZwG"
+    },
+    {
+      "_id": "fQSIXA66FrCp9Hzl",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "name": "Rumor 24",
+      "description": "Invisible, impenetrable barriers turn the landscape into a labyrinth.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.fQSIXA66FrCp9Hzl"
+    },
+    {
+      "_id": "8uWrFvgi7WTMRZlW",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "name": "Rumor 25",
+      "description": "Within a canyon, gravity fluctuates and inverts itself unpredictably.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.8uWrFvgi7WTMRZlW"
+    },
+    {
+      "_id": "TZ3g1n52jwAMHZ1T",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "name": "Rumor 26",
+      "description": "A spring bubbles with ink that heals wounds but permanently stains anything it touches.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.TZ3g1n52jwAMHZ1T"
+    },
+    {
+      "_id": "dHJfwEWc1yq9dpP3",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "name": "Rumor 27",
+      "description": "A living cavern tempts passersby with tales of treasure within.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.dHJfwEWc1yq9dpP3"
+    },
+    {
+      "_id": "ozf2rVR1dv2WUlLQ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "name": "Rumor 28",
+      "description": "A constellation of ghostly lanterns floats through the air in mesmerizing patterns.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.ozf2rVR1dv2WUlLQ"
+    },
+    {
+      "_id": "sSoAX3UvcZxzApcE",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "name": "Rumor 29",
+      "description": "A mage’s tomb wanders the land on giant mechanical legs.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.sSoAX3UvcZxzApcE"
+    },
+    {
+      "_id": "fuExK9eqyzsEu4Ke",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "name": "Rumor 30",
+      "description": "Cracks in the sky show a different set of stars.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.fuExK9eqyzsEu4Ke"
+    },
+    {
+      "_id": "bgZHVvQAQJt77Vu0",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "name": "Rumor 31",
+      "description": "A hunter claims to know a cure for shadowblight but asks a dangerous favor in exchange for it.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.bgZHVvQAQJt77Vu0"
+    },
+    {
+      "_id": "HS6q4CiZNn9q6N76",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "name": "Rumor 32",
+      "description": "Oversized fruits and vegetables offer an abundance of food to be foraged.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.HS6q4CiZNn9q6N76"
+    },
+    {
+      "_id": "XsgQX6GFho2DF6gL",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "name": "Rumor 33",
+      "description": "Spectral armies made of clouds wage war in the sky.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.XsgQX6GFho2DF6gL"
+    },
+    {
+      "_id": "QSXdU9jCUIiBP4zu",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "name": "Rumor 34",
+      "description": "The earth bleeds when wounded by picks or plows.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.QSXdU9jCUIiBP4zu"
+    },
+    {
+      "_id": "BS44Ky7AR3Jvp3f8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "name": "Rumor 35",
+      "description": "A quartz tower splits the light of dawn into separate bands of color.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.BS44Ky7AR3Jvp3f8"
+    },
+    {
+      "_id": "ANXVITrHNv22pYwN",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "name": "Rumor 36",
+      "description": "A bridge of spider silk spans a bottomless chasm.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.ANXVITrHNv22pYwN"
+    },
+    {
+      "_id": "brhpfSW3VDn3dfVB",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "name": "Rumor 37",
+      "description": "The friendly hermit who lives here knows when others will die.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.brhpfSW3VDn3dfVB"
+    },
+    {
+      "_id": "scfk9pFFaKC9eTww",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "name": "Rumor 38",
+      "description": "The blood-red lake is filled with eels who grant wishes—that those who make them come to regret.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.scfk9pFFaKC9eTww"
+    },
+    {
+      "_id": "rgraP1OrMdH5cV8M",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "name": "Rumor 39",
+      "description": "A curse of magical silence befell this place.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.rgraP1OrMdH5cV8M"
+    },
+    {
+      "_id": "RtdRrxTAcLvKSY5q",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "name": "Rumor 40",
+      "description": "A candle here burned through the Long Sorrow, and burns still.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.RtdRrxTAcLvKSY5q"
+    },
+    {
+      "_id": "4F0qlW9E9HgdJY6C",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "name": "Rumor 41",
+      "description": "A castle made of bone appears only at twilight.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.4F0qlW9E9HgdJY6C"
+    },
+    {
+      "_id": "uD4Fp5ZKev4BNfGK",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "name": "Rumor 42",
+      "description": "Every night, a shadowblighted battlefield vomits forth undead armies to fight each other.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.uD4Fp5ZKev4BNfGK"
+    },
+    {
+      "_id": "HWcmZJkjHq1TbhQ8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "name": "Rumor 43",
+      "description": "A tree with the face of a man knows the secret weakness of every living thing.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.HWcmZJkjHq1TbhQ8"
+    },
+    {
+      "_id": "jDnZHfCT5E1Hp08y",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "name": "Rumor 44",
+      "description": "A city has been locked in magical slumber since before the sanctuary walls came down.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.jDnZHfCT5E1Hp08y"
+    },
+    {
+      "_id": "fL3fpSvjeocfP75E",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "name": "Rumor 45",
+      "description": "A ghost ship sails across land instead of sea.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.fL3fpSvjeocfP75E"
+    },
+    {
+      "_id": "lv9eKNn3TP4l6IxQ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "name": "Rumor 46",
+      "description": "A lost friend, relative, or companion was supposedly seen here.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.lv9eKNn3TP4l6IxQ"
+    },
+    {
+      "_id": "rowE2fGh1B2MKosb",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "name": "Rumor 47",
+      "description": "A meteor fell to earth and cracked open, leaking strange life.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.rowE2fGh1B2MKosb"
+    },
+    {
+      "_id": "MaqEVgtWlZ1NW7LZ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "name": "Rumor 48",
+      "description": "A field of magnetic stone holds fast anything metal.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.MaqEVgtWlZ1NW7LZ"
+    },
+    {
+      "_id": "rFSphePyK6AVQeBn",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "name": "Rumor 49",
+      "description": "An enormous clockwork machine lies half-buried.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.rFSphePyK6AVQeBn"
+    },
+    {
+      "_id": "jiKjfSerT7MyR3kP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "name": "Rumor 50",
+      "description": "Faceless merchants run shadow-markets.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.jiKjfSerT7MyR3kP"
+    },
+    {
+      "_id": "R4XGewDsf6l3FWI0",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "name": "Rumor 51",
+      "description": "A child of glass wanders the wastes, seeking their missing parents.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.R4XGewDsf6l3FWI0"
+    },
+    {
+      "_id": "IY4VY5FuL7nGc1Zt",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "name": "Rumor 52",
+      "description": "A labyrinth of brambles regrows behind travelers.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.IY4VY5FuL7nGc1Zt"
+    },
+    {
+      "_id": "PRf7H8UnF6SjXsTM",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "name": "Rumor 53",
+      "description": "A village celebrates births with coffins, not cradles.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.PRf7H8UnF6SjXsTM"
+    },
+    {
+      "_id": "mWwoZmj0wSWjDO8Z",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "name": "Rumor 54",
+      "description": "There is a shortcut here not found on any map.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.mWwoZmj0wSWjDO8Z"
+    },
+    {
+      "_id": "3hc5pUOd67Yn9yfP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "name": "Rumor 55",
+      "description": "A dragon’s hoard remains mysteriously undisturbed, though the dragon hasn’t been seen since the sanctuaries opened.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.3hc5pUOd67Yn9yfP"
+    },
+    {
+      "_id": "aKnZz42qjjmPc86f",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "name": "Rumor 56",
+      "description": "A tower grows steadily taller each morning despite no sign of builders.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.aKnZz42qjjmPc86f"
+    },
+    {
+      "_id": "fu1OHN4GspWhRqjt",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "name": "Rumor 57",
+      "description": "Weapons can’t be drawn here.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.fu1OHN4GspWhRqjt"
+    },
+    {
+      "_id": "Hag7l4eSwJGvhnCP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "name": "Rumor 58",
+      "description": "These lands hold evidence of an enemy’s weakness.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.Hag7l4eSwJGvhnCP"
+    },
+    {
+      "_id": "ukukQBqhp81b9KEK",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "name": "Rumor 59",
+      "description": "Alchemists come from far-off lands for this region’s rare herbs, minerals, and other components.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.ukukQBqhp81b9KEK"
+    },
+    {
+      "_id": "Ng7UWrxmKezmAmGC",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "name": "Rumor 60",
+      "description": "Schools of goldfish swim through the air.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.Ng7UWrxmKezmAmGC"
+    },
+    {
+      "_id": "9tczl3UHsLobRIz7",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "name": "Rumor 61",
+      "description": "A blind shepherd tends to flocks of shadows instead of sheep.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.9tczl3UHsLobRIz7"
+    },
+    {
+      "_id": "dw0JgEEMhk4y4I4L",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "name": "Rumor 62",
+      "description": "Fire burns cold and blue here.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.dw0JgEEMhk4y4I4L"
+    },
+    {
+      "_id": "LCh3YnvBhyxvQxRw",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "name": "Rumor 63",
+      "description": "The path is protected by wards forged by a nameless saint.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.LCh3YnvBhyxvQxRw"
+    },
+    {
+      "_id": "bSdae8SvOSnPdBUh",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "name": "Rumor 64",
+      "description": "A gallery of stone figures stands, each a thousand feet tall.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.bSdae8SvOSnPdBUh"
+    },
+    {
+      "_id": "CYePc6p000yg0IMm",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "name": "Rumor 65",
+      "description": "A black sun traces its course across the sky every hour.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.CYePc6p000yg0IMm"
+    },
+    {
+      "_id": "cAx0TkoiSNV4DQTh",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "name": "Rumor 66",
+      "description": "A bridge of flesh groans and sighs beneath travelers’ weight.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.cAx0TkoiSNV4DQTh"
+    },
+    {
+      "_id": "tjsE35uiJrbwtSF2",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "name": "Rumor 67",
+      "description": "A tree bleeds golden sap that hardens into cursed jewels.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.tjsE35uiJrbwtSF2"
+    },
+    {
+      "_id": "I9pnsHwEhDHoeKLe",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "name": "Rumor 68",
+      "description": "A chained serpent begs for release.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.I9pnsHwEhDHoeKLe"
+    },
+    {
+      "_id": "zfwifjHQp0bIdNwg",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "name": "Rumor 69",
+      "description": "The trees uproot themselves and walk around at night.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.zfwifjHQp0bIdNwg"
+    },
+    {
+      "_id": "aeYL3Foypvbppj9z",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "name": "Rumor 70",
+      "description": "A chained door built into the ground in the middle of nowhere rattles at night. No one knows what’s trapped behind it.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.aeYL3Foypvbppj9z"
+    },
+    {
+      "_id": "QtX0qwbOlctJwqlG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "name": "Rumor 71",
+      "description": "Ancient ruins offer shelter and salvageable relics.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.QtX0qwbOlctJwqlG"
+    },
+    {
+      "_id": "6qdAgxEMvfSyykIq",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "name": "Rumor 72",
+      "description": "A spectral orchestra plays in a ruined amphitheater.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.6qdAgxEMvfSyykIq"
+    },
+    {
+      "_id": "W00RcxZOCcBLjA2I",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "name": "Rumor 73",
+      "description": "A storm of crystal shards scours the land clean as it drifts.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.W00RcxZOCcBLjA2I"
+    },
+    {
+      "_id": "ZHkbKghjhvlRHBcf",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "name": "Rumor 74",
+      "description": "A child living here claims to have memories of Old Valloren.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.ZHkbKghjhvlRHBcf"
+    },
+    {
+      "_id": "oPWpMOHgn7AbEr2F",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "name": "Rumor 75",
+      "description": "A cemetery grows larger each night.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.oPWpMOHgn7AbEr2F"
+    },
+    {
+      "_id": "7eTbnps7aGdIG7kQ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "name": "Rumor 76",
+      "description": "The moon weeps silver droplets that burn the ground.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.7eTbnps7aGdIG7kQ"
+    },
+    {
+      "_id": "BOR3UUuS2HByFMTU",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "name": "Rumor 77",
+      "description": "A warrior in golden armor battles never-ending waves of shadowblighted beasts.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.BOR3UUuS2HByFMTU"
+    },
+    {
+      "_id": "Vmycj2XYCoTCtXGy",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "name": "Rumor 78",
+      "description": "A songbird guards a nest filled with magic rings.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.Vmycj2XYCoTCtXGy"
+    },
+    {
+      "_id": "um8Ubw18lSzxSN0k",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "name": "Rumor 79",
+      "description": "A ruined temple drags travelers into its dreams.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.um8Ubw18lSzxSN0k"
+    },
+    {
+      "_id": "HK9zBOVw6GSQff5a",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "name": "Rumor 80",
+      "description": "A rainbow hums with power. Some claim it can be walked on.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.HK9zBOVw6GSQff5a"
+    },
+    {
+      "_id": "gPheaMgdA5Xgrv1c",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "name": "Rumor 81",
+      "description": "Two doors stand side by side: one leads to wealth beyond measure, the other to certain doom. No one knows which is which.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.gPheaMgdA5Xgrv1c"
+    },
+    {
+      "_id": "x70qG5emJDSZd1sd",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "name": "Rumor 82",
+      "description": "The road vanishes behind travelers as they walk it.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.x70qG5emJDSZd1sd"
+    },
+    {
+      "_id": "SnzjHZnDGOdLSRHu",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "name": "Rumor 83",
+      "description": "A ruin of shattered glass offers windows into other realms.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.SnzjHZnDGOdLSRHu"
+    },
+    {
+      "_id": "EEuPSsm0dQrWuUnh",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "name": "Rumor 84",
+      "description": "A mountain floats high above the ground, green lightning striking its peak.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.EEuPSsm0dQrWuUnh"
+    },
+    {
+      "_id": "9gCyutmaby4cgBET",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "name": "Rumor 85",
+      "description": "A mysterious hunter born from the land ambushes trespassers with living arrows.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.9gCyutmaby4cgBET"
+    },
+    {
+      "_id": "sQ68BNgFxhvrneiT",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "name": "Rumor 86",
+      "description": "A river of liquid light runs through here.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.sQ68BNgFxhvrneiT"
+    },
+    {
+      "_id": "ORX0xzCRcBymH5dt",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "name": "Rumor 87",
+      "description": "A colossus sleeps here, often mistaken for a mountain.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.ORX0xzCRcBymH5dt"
+    },
+    {
+      "_id": "gcerDSZsBor9xcPG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "name": "Rumor 88",
+      "description": "A plague of paper-eating butterflies terrorizes this region.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.gcerDSZsBor9xcPG"
+    },
+    {
+      "_id": "hxNYVhuH3r6wFPtY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "name": "Rumor 89",
+      "description": "A gargantuan skeleton carved with runes sprawls across the landscape.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.hxNYVhuH3r6wFPtY"
+    },
+    {
+      "_id": "7aIhuXPFuUuJCQXU",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "name": "Rumor 90",
+      "description": "A cursed shrine answers any question in exchange for a year of life.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.7aIhuXPFuUuJCQXU"
+    },
+    {
+      "_id": "fc64TZHuD4l4QLU9",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "name": "Rumor 91",
+      "description": "A never-ending storm carries the voices of drowned sailors.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.fc64TZHuD4l4QLU9"
+    },
+    {
+      "_id": "0ogPwT045BVSVsdm",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "name": "Rumor 92",
+      "description": "The flowers here bloom in response to the goddess Aurelia’s name.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.0ogPwT045BVSVsdm"
+    },
+    {
+      "_id": "bfG1uR84VmpcMJDq",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "name": "Rumor 93",
+      "description": "A herd of luminous beasts crosses the land in silence.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.bfG1uR84VmpcMJDq"
+    },
+    {
+      "_id": "O36B8z7RvaDxXXnx",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "name": "Rumor 94",
+      "description": "A meadow of glass flowers rings in the wind. If its music can be deciphered, it tells the future.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.O36B8z7RvaDxXXnx"
+    },
+    {
+      "_id": "J0Bx7PHAcHqkobZ0",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "name": "Rumor 95",
+      "description": "Soldiers made of sand appear in the morning but crumble when touched.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.J0Bx7PHAcHqkobZ0"
+    },
+    {
+      "_id": "5Mai2FAp3d7K1UPY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "name": "Rumor 96",
+      "description": "A tree bears glowing fruit that changes the age of anyone who consumes it.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.5Mai2FAp3d7K1UPY"
+    },
+    {
+      "_id": "OHoCCfXm6oXqD8F0",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "name": "Rumor 97",
+      "description": "A pool of tears cried by an Aurelian saint heals wounds but deepens despair.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.OHoCCfXm6oXqD8F0"
+    },
+    {
+      "_id": "E7vegidWlEabfSHI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "name": "Rumor 98",
+      "description": "A crown of ice lies within a frozen palace and whispers promises of conquest.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.E7vegidWlEabfSHI"
+    },
+    {
+      "_id": "Um8OSPzKZzeT81vh",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "name": "Rumor 99",
+      "description": "A lone cottage stands with shadowblight trailing out of its chimney and into the sky.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.Um8OSPzKZzeT81vh"
+    },
+    {
+      "_id": "q7WK1v3dGhYAMNhb",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "name": "Rumor 00",
+      "description": "A comet hangs in the sky but never falls. Rival religious groups argue about its meaning.",
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblRumors000.q7WK1v3dGhYAMNhb"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblRumors000"
+}

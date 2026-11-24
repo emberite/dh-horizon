@@ -1,0 +1,782 @@
+{
+  "_id": "dhhzTerranamancr",
+  "name": "Terranamancer",
+  "type": "feature",
+  "img": "icons/magic/earth/orb-ringed-stone.webp",
+  "system": {
+    "description": "<p>This adversary can draw on terrana and use it to fuel magical effects. <strong>Mark a Stress</strong> to activate an effect based on the habitat of their current location (if an effect’s damage roll uses the adversary’s tier, roll the damage die a number of times equal to their tier and total the rolls):</p>\n<ul>\n<li><strong>Heat Spell</strong> (Desert, Salt Flats, Volcano): The adversary exudes oppressive supernatural heat. Each target within Very Close range must succeed on an Instinct Reaction Roll. Targets who fail must mark a Stress and take <strong>d6</strong> direct magic damage using this adversary’s tier.</li>\n<li><strong>Overgrowth Spell</strong> (Forest, Jungle): This adversary unleashes a burst of branches, brambles, or vines in all directions. Each target within Close range must make an Agility Reaction Roll. Targets who fail take <strong>d8</strong> physical damage using this adversary’s tier and are <em>Restrained</em> until they break free with a successful Strength Roll.</li>\n<li><strong>Wind Spell</strong> (Cliffs, Plains, Steppe): A tornado surrounds this adversary. Each target within Close range must make a Strength Reaction Roll. Targets who fail take <strong>d8</strong> magic damage using this adversary’s tier and are pushed up to Far range. Until this adversary takes damage, attack rolls against them have disadvantage.</li>\n<li><strong>Ice Spell</strong> (Alpine, Glacier, Tundra): This adversary unleashes daggers of ice. Make an attack against each PC in front of this adversary within Close range. Targets they succeed against take <strong>d10</strong> magic damage using this adversary’s tier and are <em>Frostbitten</em> until they spend a Hope to clear the condition. While Frostbitten, a PC gains a −1 penalty to their Proficiency.</li>\n<li><strong>Poison Spell</strong> (Moor, Swamp, Wetlands): A cloud of toxic spores explodes from this adversary. Each PC within Close range must succeed on a Strength Reaction Roll or take <strong>d6</strong> direct magic damage using this adversary’s tier and become <em>Nauseated</em> until they clear a HP. While Nauseated, a PC can’t gain Hope.</li>\n<li><strong>Stone Spell</strong> (Canyon, Mountain, Badlands): This adversary gains a bonus to their damage thresholds equal to their tier until they take Severe damage or use this feature again.</li>\n<li><strong>Water Spell</strong> (Riverlands, Sea): This adversary unleashes a geyser or tidal wave. Make an attack against all targets within Very Close range. Targets they succeed against are pushed to Close range of where they were and mark a number of Stress equal to this adversary’s tier.</li>\n</ul>",
+    "featureForm": "passive",
+    "actions": {
+      "0bgCckqqWpcQEPrX": {
+        "_id": "0bgCckqqWpcQEPrX",
+        "type": "attack",
+        "systemPath": "actions",
+        "name": "Heat Spell",
+        "img": "icons/magic/fire/flame-burning-hand-orange.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [
+          {
+            "scalable": false,
+            "key": "stress",
+            "value": 1,
+            "step": null,
+            "itemId": null,
+            "consumeOnSuccess": false
+          }
+        ],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "any",
+          "amount": null
+        },
+        "effects": [],
+        "range": "veryClose",
+        "areas": [
+          {
+            "name": "Heat Spell",
+            "type": "placed",
+            "shape": "emanation",
+            "size": "veryClose",
+            "hasHole": false,
+            "effects": []
+          }
+        ],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": [],
+        "damage": {
+          "main": {
+            "value": {
+              "custom": {
+                "enabled": true,
+                "formula": "(@tier)d6"
+              },
+              "multiplier": "flat",
+              "flatMultiplier": 1,
+              "dice": "d6",
+              "bonus": null
+            },
+            "applyTo": "hitPoints",
+            "type": [
+              "magical"
+            ],
+            "base": false,
+            "resultBased": false,
+            "valueAlt": null,
+            "includeBase": false,
+            "direct": true,
+            "fullRestore": false,
+            "itemId": null
+          },
+          "resources": {}
+        },
+        "roll": {
+          "type": null,
+          "trait": null,
+          "difficulty": null,
+          "bonus": null,
+          "advState": "neutral",
+          "diceRolling": {
+            "multiplier": "prof",
+            "flatMultiplier": 1,
+            "dice": "d6",
+            "compare": null,
+            "treshold": null
+          },
+          "useDefault": false
+        },
+        "save": {
+          "trait": "instinct",
+          "difficulty": null,
+          "damageMod": "none"
+        }
+      },
+      "U9JvqoLMmSg9XteG": {
+        "_id": "U9JvqoLMmSg9XteG",
+        "type": "attack",
+        "systemPath": "actions",
+        "name": "Overgrowth Spell",
+        "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [
+          {
+            "scalable": false,
+            "key": "stress",
+            "value": 1,
+            "step": null,
+            "itemId": null,
+            "consumeOnSuccess": false
+          }
+        ],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "any",
+          "amount": null
+        },
+        "effects": [
+          {
+            "_id": "FiGqrD7a9uGHGBdr",
+            "onSave": false
+          }
+        ],
+        "range": "close",
+        "areas": [
+          {
+            "name": "Overgrowth Spell",
+            "type": "placed",
+            "shape": "emanation",
+            "size": "close",
+            "hasHole": false,
+            "effects": []
+          }
+        ],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": [],
+        "damage": {
+          "main": {
+            "value": {
+              "custom": {
+                "enabled": true,
+                "formula": "(@tier)d8"
+              },
+              "multiplier": "flat",
+              "flatMultiplier": 1,
+              "dice": "d6",
+              "bonus": null
+            },
+            "applyTo": "hitPoints",
+            "type": [
+              "physical"
+            ],
+            "base": false,
+            "resultBased": false,
+            "valueAlt": null,
+            "includeBase": false,
+            "direct": false,
+            "fullRestore": false,
+            "itemId": null
+          },
+          "resources": {}
+        },
+        "roll": {
+          "type": null,
+          "trait": null,
+          "difficulty": null,
+          "bonus": null,
+          "advState": "neutral",
+          "diceRolling": {
+            "multiplier": "prof",
+            "flatMultiplier": 1,
+            "dice": "d6",
+            "compare": null,
+            "treshold": null
+          },
+          "useDefault": false
+        },
+        "save": {
+          "trait": "agility",
+          "difficulty": null,
+          "damageMod": "none"
+        }
+      },
+      "YSg4nSVYLdxpMAxT": {
+        "_id": "YSg4nSVYLdxpMAxT",
+        "type": "attack",
+        "systemPath": "actions",
+        "name": "Wind Spell",
+        "img": "icons/magic/air/wind-tornado-funnel-green.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [
+          {
+            "scalable": false,
+            "key": "stress",
+            "value": 1,
+            "step": null,
+            "itemId": null,
+            "consumeOnSuccess": false
+          }
+        ],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "any",
+          "amount": null
+        },
+        "effects": [],
+        "range": "close",
+        "areas": [
+          {
+            "name": "Wind Spell",
+            "type": "placed",
+            "shape": "emanation",
+            "size": "close",
+            "hasHole": false,
+            "effects": []
+          }
+        ],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": [],
+        "damage": {
+          "main": {
+            "value": {
+              "custom": {
+                "enabled": true,
+                "formula": "(@tier)d8"
+              },
+              "multiplier": "flat",
+              "flatMultiplier": 1,
+              "dice": "d6",
+              "bonus": null
+            },
+            "applyTo": "hitPoints",
+            "type": [
+              "magical"
+            ],
+            "base": false,
+            "resultBased": false,
+            "valueAlt": null,
+            "includeBase": false,
+            "direct": false,
+            "fullRestore": false,
+            "itemId": null
+          },
+          "resources": {}
+        },
+        "roll": {
+          "type": null,
+          "trait": null,
+          "difficulty": null,
+          "bonus": null,
+          "advState": "neutral",
+          "diceRolling": {
+            "multiplier": "prof",
+            "flatMultiplier": 1,
+            "dice": "d6",
+            "compare": null,
+            "treshold": null
+          },
+          "useDefault": false
+        },
+        "save": {
+          "trait": "strength",
+          "difficulty": null,
+          "damageMod": "none"
+        }
+      },
+      "cliBb5uh8IShdpHr": {
+        "_id": "cliBb5uh8IShdpHr",
+        "type": "attack",
+        "systemPath": "actions",
+        "name": "Ice Spell",
+        "img": "icons/magic/water/projectile-ice-shard.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [
+          {
+            "scalable": false,
+            "key": "stress",
+            "value": 1,
+            "step": null,
+            "itemId": null,
+            "consumeOnSuccess": false
+          }
+        ],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "any",
+          "amount": null
+        },
+        "effects": [
+          {
+            "_id": "ejIUgrNj83SHP456",
+            "onSave": false
+          }
+        ],
+        "range": "close",
+        "areas": [],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": [],
+        "damage": {
+          "main": {
+            "value": {
+              "custom": {
+                "enabled": true,
+                "formula": "(@tier)d10"
+              },
+              "multiplier": "flat",
+              "flatMultiplier": 1,
+              "dice": "d6",
+              "bonus": null
+            },
+            "applyTo": "hitPoints",
+            "type": [
+              "magical"
+            ],
+            "base": false,
+            "resultBased": false,
+            "valueAlt": null,
+            "includeBase": false,
+            "direct": false,
+            "fullRestore": false,
+            "itemId": null
+          },
+          "resources": {}
+        },
+        "roll": {
+          "type": "attack",
+          "trait": null,
+          "difficulty": null,
+          "bonus": null,
+          "advState": "neutral",
+          "diceRolling": {
+            "multiplier": "prof",
+            "flatMultiplier": 1,
+            "dice": "d6",
+            "compare": null,
+            "treshold": null
+          },
+          "useDefault": false
+        },
+        "save": {
+          "trait": null,
+          "difficulty": null,
+          "damageMod": "none"
+        }
+      },
+      "g2YsRMDvcSnFLeCD": {
+        "_id": "g2YsRMDvcSnFLeCD",
+        "type": "attack",
+        "systemPath": "actions",
+        "name": "Poison Spell",
+        "img": "icons/magic/unholy/orb-smoking-green.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [
+          {
+            "scalable": false,
+            "key": "stress",
+            "value": 1,
+            "step": null,
+            "itemId": null,
+            "consumeOnSuccess": false
+          }
+        ],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "any",
+          "amount": null
+        },
+        "effects": [
+          {
+            "_id": "PR1H07g4fxZWDLS7",
+            "onSave": false
+          }
+        ],
+        "range": "close",
+        "areas": [
+          {
+            "name": "Poison Spell",
+            "type": "placed",
+            "shape": "emanation",
+            "size": "close",
+            "hasHole": false,
+            "effects": []
+          }
+        ],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": [],
+        "damage": {
+          "main": {
+            "value": {
+              "custom": {
+                "enabled": true,
+                "formula": "(@tier)d6"
+              },
+              "multiplier": "flat",
+              "flatMultiplier": 1,
+              "dice": "d6",
+              "bonus": null
+            },
+            "applyTo": "hitPoints",
+            "type": [
+              "magical"
+            ],
+            "base": false,
+            "resultBased": false,
+            "valueAlt": null,
+            "includeBase": false,
+            "direct": true,
+            "fullRestore": false,
+            "itemId": null
+          },
+          "resources": {}
+        },
+        "roll": {
+          "type": null,
+          "trait": null,
+          "difficulty": null,
+          "bonus": null,
+          "advState": "neutral",
+          "diceRolling": {
+            "multiplier": "prof",
+            "flatMultiplier": 1,
+            "dice": "d6",
+            "compare": null,
+            "treshold": null
+          },
+          "useDefault": false
+        },
+        "save": {
+          "trait": "strength",
+          "difficulty": null,
+          "damageMod": "none"
+        }
+      },
+      "lXuw1N8fxJN85KDP": {
+        "_id": "lXuw1N8fxJN85KDP",
+        "type": "effect",
+        "systemPath": "actions",
+        "name": "Stone Spell",
+        "img": "icons/magic/earth/barrier-stone-brown-green.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [
+          {
+            "scalable": false,
+            "key": "stress",
+            "value": 1,
+            "step": null,
+            "itemId": null,
+            "consumeOnSuccess": false
+          }
+        ],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "self",
+          "amount": null
+        },
+        "effects": [],
+        "range": "self",
+        "areas": [],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": []
+      },
+      "RjSmMlppL6HX9ESF": {
+        "_id": "RjSmMlppL6HX9ESF",
+        "type": "attack",
+        "systemPath": "actions",
+        "name": "Water Spell",
+        "img": "icons/magic/water/wave-water-blue.webp",
+        "description": "",
+        "chatDisplay": true,
+        "actionType": "action",
+        "cost": [
+          {
+            "scalable": false,
+            "key": "stress",
+            "value": 1,
+            "step": null,
+            "itemId": null,
+            "consumeOnSuccess": false
+          }
+        ],
+        "uses": {
+          "value": null,
+          "max": "",
+          "recovery": null,
+          "consumeOnSuccess": false
+        },
+        "target": {
+          "type": "any",
+          "amount": null
+        },
+        "effects": [],
+        "range": "veryClose",
+        "areas": [
+          {
+            "name": "Water Spell",
+            "type": "placed",
+            "shape": "emanation",
+            "size": "veryClose",
+            "hasHole": false,
+            "effects": []
+          }
+        ],
+        "baseAction": false,
+        "originItem": {
+          "type": "itemCollection"
+        },
+        "triggers": [],
+        "damage": {
+          "main": null,
+          "resources": {
+            "stress": {
+              "base": false,
+              "applyTo": "stress",
+              "resultBased": false,
+              "fullRestore": false,
+              "value": {
+                "multiplier": "flat",
+                "flatMultiplier": 1,
+                "dice": "d6",
+                "bonus": null,
+                "custom": {
+                  "enabled": true,
+                  "formula": "@tier"
+                }
+              },
+              "valueAlt": null,
+              "itemId": null
+            }
+          }
+        },
+        "roll": {
+          "type": "attack",
+          "trait": null,
+          "difficulty": null,
+          "bonus": null,
+          "advState": "neutral",
+          "diceRolling": {
+            "multiplier": "prof",
+            "flatMultiplier": 1,
+            "dice": "d6",
+            "compare": null,
+            "treshold": null
+          },
+          "useDefault": false
+        },
+        "save": {
+          "trait": null,
+          "difficulty": null,
+          "damageMod": "none"
+        }
+      }
+    },
+    "resource": null,
+    "attribution": {
+      "source": "Daggerheart: Hope & Fear",
+      "page": null,
+      "artist": ""
+    },
+    "gmNotes": "",
+    "granter": null,
+    "actorResources": []
+  },
+  "effects": [
+    {
+      "_id": "FiGqrD7a9uGHGBdr",
+      "name": "Restrained",
+      "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+      "type": "base",
+      "transfer": false,
+      "disabled": false,
+      "statuses": [
+        "restrained"
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "changes": [],
+        "duration": {
+          "description": ""
+        },
+        "rangeDependence": null,
+        "stacking": null,
+        "targetDispositions": [],
+        "conditionals": []
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "start": null,
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!items.effects!dhhzTerranamancr.FiGqrD7a9uGHGBdr"
+    },
+    {
+      "_id": "ejIUgrNj83SHP456",
+      "name": "Frostbitten",
+      "img": "icons/magic/water/snowflake-ice-blue-white.webp",
+      "type": "base",
+      "transfer": false,
+      "disabled": false,
+      "statuses": [
+        "frostbitten"
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "changes": [
+          {
+            "key": "system.proficiency",
+            "value": -1,
+            "priority": null,
+            "type": "add",
+            "phase": "initial"
+          }
+        ],
+        "duration": {
+          "description": ""
+        },
+        "rangeDependence": null,
+        "stacking": null,
+        "targetDispositions": [],
+        "conditionals": []
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "start": null,
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!items.effects!dhhzTerranamancr.ejIUgrNj83SHP456"
+    },
+    {
+      "_id": "PR1H07g4fxZWDLS7",
+      "name": "Nauseated",
+      "img": "icons/magic/unholy/orb-smoking-green.webp",
+      "type": "base",
+      "transfer": false,
+      "disabled": false,
+      "statuses": [
+        "nauseated"
+      ],
+      "description": "",
+      "tint": "#ffffff",
+      "showIcon": 1,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "changes": [],
+        "duration": {
+          "description": ""
+        },
+        "rangeDependence": null,
+        "stacking": null,
+        "targetDispositions": [],
+        "conditionals": []
+      },
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "start": null,
+      "folder": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!items.effects!dhhzTerranamancr.PR1H07g4fxZWDLS7"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!items!dhhzTerranamancr"
+}

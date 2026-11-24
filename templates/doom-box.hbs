@@ -1,0 +1,25 @@
+{{#if visible}}
+<li class="hz-box {{#if marked}}marked{{/if}}">
+    <div class="hz-box-row">
+        {{#if canMark}}
+            <button type="button" class="hz-check" data-action="markDoom" data-id="{{id}}" data-tooltip="{{localize 'DHHZ.Doom.Mark'}}"></button>
+        {{else if canUnmark}}
+            <button type="button" class="hz-check on" data-action="markDoom" data-id="{{id}}" data-tooltip="{{localize 'DHHZ.Doom.Unmark'}}"><i class="fa-solid fa-xmark"></i></button>
+        {{else}}
+            <span class="hz-check {{#if marked}}on{{/if}}">{{#if marked}}<i class="fa-solid fa-xmark"></i>{{/if}}</span>
+        {{/if}}
+        {{#if gm}}
+            <input type="text" data-doom-text="{{id}}" value="{{text}}">
+            <button type="button" class="hz-icon" data-action="addDoom" data-parent="{{id}}" data-tooltip="{{localize 'DHHZ.Doom.AddNested'}}"><i class="fa-solid fa-turn-down"></i></button>
+            <button type="button" class="hz-icon" data-action="removeDoom" data-id="{{id}}" data-tooltip="{{localize 'DHHZ.Doom.Remove'}}"><i class="fa-solid fa-trash"></i></button>
+        {{else}}
+            <span class="hz-box-text">{{text}}</span>
+        {{/if}}
+    </div>
+    {{#if children.length}}
+        <ul class="hz-boxes nested">
+            {{#each children}}{{> "dhhz-doom-box" this gm=../gm}}{{/each}}
+        </ul>
+    {{/if}}
+</li>
+{{/if}}

@@ -1,0 +1,271 @@
+{
+    "DHHZ": {
+        "App": {
+            "Title": "Journey to Horizon",
+            "Heading": "Journey to Horizon",
+            "Tab": { "Map": "Map", "Hex": "Hex", "Journey": "Journey", "Doom": "Doom Track" }
+        },
+        "Menu": { "Legend": "Journey to Horizon", "Map": "Hex Crawl Map", "Journey": "Journey", "Doom": "Doom Track" },
+        "Notify": {
+            "NoHopeAndFear": "Journey to Horizon links to the rules and uses the art of the Daggerheart: Hope & Fear module (daggerheart-hope-and-fear). Activate it for the rulebook links and art."
+        },
+        "Errors": { "Upload": "Couldn't save the map image to the world folder. Check that the GM may upload files." },
+        "Party": { "Name": "The Party" },
+        "Settings": {
+            "prepRadius": { "Name": "Key map preparation radius", "Hint": "Regions are rolled on the fly for every hex within this many hexes of the party, so the GM's key map stays ahead of the players. The party itself only learns its own hex and the hexes next to it." },
+            "blindEncounters": { "Name": "Hide encounter dice from players", "Hint": "Roll the Encounter Dice (and ocean weather) blind with Dice So Nice. Their results always go to a GM-only chat card." },
+            "endurance": { "Name": "Endurance Countdowns (optional rule)", "Hint": "Each PC starts with an Endurance Countdown (6) after a rest. When the party enters a wilderness hex, each PC rolls their Hope Die: equal or lower marks a Stress, higher ticks the countdown down. When it triggers, the PC is Vulnerable until their next rest." },
+            "restLimits": { "Name": "Warn about resting limits", "Hint": "Show a warning in the rest dialog when the party takes a long rest outside a sanctuary or a fourth short rest in a row." },
+            "locateMove": { "Name": "Locate Soul Echoes downtime move", "Hint": "Add the campaign frame's special downtime move to the short and long rest dialogs. Taking it tells the table the direction of the nearest sanctuary with a Soul Echo." },
+            "seekersHear": { "Name": "The Seekers hear the Echoes", "Hint": "When someone locates the Soul Echoes, remind the GM (whisper) that nearby Seekers-in-Shadow may learn the Vessel's general direction." },
+            "showNames": { "Name": "Show sanctuary names to players", "Hint": "Players know where the sanctuaries are from the old maps. Off: a sanctuary's name shows once the party has seen its hex." },
+            "doomPublic": { "Name": "Doom Track for players", "Hint": "What players see of the Doom Track.", "none": "Nothing", "marked": "Marked boxes only", "all": "The whole track" },
+            "conditions": { "Name": "Frostbitten and Nauseated conditions", "Hint": "Add the Terranamancer conditions to the token status conditions and clear them by the rules (Frostbitten ends when the PC spends a Hope, Nauseated when they clear a HP)." },
+            "gmKey": { "Name": "Show the GM key map", "Hint": "On Horizon scenes, show region outlines, terrain dots, and Soul Echoes for hexes the party hasn't seen yet." }
+        },
+        "Map": {
+            "First": "Create the map of New Valloren",
+            "New": "Create a new map",
+            "Intro": "Builds a Horizon scene with a hex grid: the coast of Old Valloren, Marrogate in the far southwest, the Cliffs of Horizon at the northeastern tip, sanctuaries in between and nine Soul Echoes spread from west to east. The wilderness is rolled on the dice tables as the party travels: they see the uncharted map and the sanctuaries, and you see the key map.",
+            "NewConfirm": "Create a new map? The current Horizon scene stays as it is, but the app and the party move to the new one.",
+            "Building": "Painting New Valloren…",
+            "Built": "{name} is ready. Move the party token to travel.",
+            "Marrogate": "Marrogate",
+            "Horizon": "Horizon",
+            "SceneName": "New Valloren",
+            "Name": "Scene name",
+            "Cols": "Columns",
+            "Rows": "Rows",
+            "SanctuaryCount": "Sanctuaries",
+            "Seed": "Seed",
+            "RandomSeed": "New seed",
+            "Create": "Create map",
+            "Size": "hexes",
+            "Land": "land hexes",
+            "Regions": "regions",
+            "Rolled": "rolled",
+            "Revealed": "seen by the party",
+            "Sanctuaries": "sanctuaries",
+            "LazyHint": "As the book suggests, regions are only rolled near the party. Roll the whole key map now if you'd rather prepare it ahead.",
+            "View": "View scene",
+            "PrepareAll": "Roll every region",
+            "Repaint": "Repaint map"
+        },
+        "Hex": {
+            "Uncharted": "Uncharted",
+            "Coords": "Hex {coords}",
+            "Revealed": "seen by the party",
+            "Hidden": "hidden from players",
+            "PartyHere": "the party is here",
+            "PickHint": "Alt-click a hex on the map to inspect it.",
+            "GoParty": "Party's hex",
+            "Travel": "Travel here",
+            "Place": "Place party here",
+            "ToggleReveal": "Show/hide",
+            "Region": "Region · {size} hexes",
+            "Habitat": "Habitat",
+            "Blighted": "Shadowblighted",
+            "Overtaken": "completely overtaken",
+            "Terrain": "Terrain",
+            "EncounterDie": "Encounter Dice",
+            "Spells": "Terranamancer:",
+            "Encounter": "Prepared encounter",
+            "EncounterUsed": "This encounter has happened",
+            "Rumor": "Rumor",
+            "RumorKnown": "the party has heard it",
+            "Notes": "Notes",
+            "NotesHint": "The encounter you designed, adversaries, landmarks…",
+            "Reroll": "Re-roll region",
+            "Split": "New region from this hex",
+            "RevealRegion": "Show/hide region",
+            "NoRegion": "No region has been rolled for this hex yet.",
+            "RollRegion": "Roll a region"
+        },
+        "Habitat": {
+            "Blighted": "Shadowblighted {habitat}",
+            "ocean": { "Name": "Ocean" },
+            "underground": { "Name": "Underground", "Hint": "Caves, mines, fungal forests." },
+            "aquatic": { "Name": "Aquatic", "Hint": "Lake, sea, reef, delta." },
+            "wetland": { "Name": "Wetland", "Hint": "Swamp, marsh, bog, fen." },
+            "grassland": { "Name": "Grassland", "Hint": "Plains, veldt, savannah." },
+            "tropical": { "Name": "Tropical", "Hint": "Jungle, rainforest, mangrove." },
+            "forest": { "Name": "Forest", "Hint": "Deciduous, evergreen, coniferous." },
+            "drylands": { "Name": "Drylands", "Hint": "Desert, canyon, prairie, salt flat." },
+            "rolling": { "Name": "Rolling", "Hint": "Hills, chaparral, moor, heath." },
+            "mountain": { "Name": "Mountain", "Hint": "Plateau, montane, alpine." },
+            "frozen": { "Name": "Frozen", "Hint": "Tundra, taiga, glacier." },
+            "badlands": { "Name": "Badlands", "Hint": "Volcano, crystalline, barren." }
+        },
+        "Terrain": {
+            "1": { "Name": "Optimal", "Hint": "Paved roads, stone highways or raised paths: about 1 day to enter a hex. More merchants, patrols and other travelers." },
+            "2": { "Name": "Fair", "Hint": "Beaten trade roads, caravan paths or wilderness trails: about 2 days to enter a hex." },
+            "3": { "Name": "Rough", "Hint": "Narrow tracks, game trails or tangled undergrowth: about 3 days to enter a hex. Travelers risk getting lost, hazards and dangerous creatures." },
+            "4": { "Name": "Extreme", "Hint": "Cliff faces, quagmires, collapsing terrain or trackless wilds: about 4 days to enter a hex, often impossible without climbing gear, strong magic or sheer luck." }
+        },
+        "Weather": { "1": "a tailwind", "2": "fair weather", "3": "rough waters", "4": "extreme weather" },
+        "Mode": { "foot": "Overland", "downstream": "By boat, downstream", "upstream": "By boat, upstream", "ship": "By ship" },
+        "Encounter": {
+            "2": "Roll on this table twice and combine the resulting entries.",
+            "3": "The party crosses paths with fellow travelers, such as pilgrims, merchants, or explorers.",
+            "4": "The party suffers a temporary setback, such as a dead end, bad omen, spoiled rations, or damaged tools. Optional: The GM gains a Fear for each PC.",
+            "5": "The Seekers-in-Shadow make their presence known, and the party must escape their grasp or stand and fight.",
+            "6": "An extreme weather event occurs, such as an earthquake, a forest fire, a thunderstorm, or a blizzard.",
+            "7": "The party faces potential adversaries, such as bandits, brigands, or mercenaries—or discovers warning signs of their recent activity.",
+            "8": "The heroes find themselves in the lair or hunting grounds of a territorial beast or pack of creatures.",
+            "9": "The heroes must overcome an environmental hazard or obstacle, such as a yawning chasm, rushing river, or quicksand.",
+            "10": "The party encounters members of the Cult of the Two-Headed Coin, their agents, or signs of their recent activity.",
+            "11": "The party discovers a wondrous or dangerous site worth exploring, such as a ruin of Old Valloren or a place of magical power.",
+            "12": "The party gains a bit of good fortune, such as a shortcut, good omen, helpful resource, or lucky break. Optional: Each PC gains a Hope.",
+            "13": "The party discovers a settlement or an outpost.",
+            "14": "The party stumbles across a cache of loot or treasure."
+        },
+        "Spell": { "heat": "Heat Spell", "overgrowth": "Overgrowth Spell", "wind": "Wind Spell", "ice": "Ice Spell", "poison": "Poison Spell", "stone": "Stone Spell", "water": "Water Spell" },
+        "Compass": { "north": "north", "northeast": "northeast", "east": "east", "southeast": "southeast", "south": "south", "southwest": "southwest", "west": "west", "northwest": "northwest" },
+        "Sanctuary": {
+            "Title": "Sanctuary",
+            "Name": "Name",
+            "Add": "Make this hex a sanctuary",
+            "Remove": "Remove sanctuary",
+            "Roll": "Re-roll sanctuary",
+            "PlaceEcho": "Place a Soul Echo",
+            "RemoveEcho": "Remove the Soul Echo",
+            "Collect": "Add its Echo to the Vessel",
+            "EchoHere": "A Soul Echo waits at this sanctuary's shrine.",
+            "EchoCollected": "Its Soul Echo is in the Vessel of Light.",
+            "NoEcho": "No Soul Echo here.",
+            "NotesHint": "NPCs, factions, plot hooks…",
+            "Fixed": {
+                "start": "Where the journey begins. High Priestess Saraya placed the first Soul Echo into the Vessel of Light here.",
+                "horizon": "The Cliffs of Horizon, site of Aurelia's final ritual. The party should come here only with all ten Soul Echoes."
+            },
+            "Table": { "trade": "Trade and Exports", "quirk": "Quirk", "crisis": "Crisis", "drive": "Drive", "politics": "Political System", "size": "Size", "population": "Population" },
+            "trade": {
+                "1": "Farming", "2": "Herding, husbandry, or taming", "3": "Fishing, hunting, or trapping", "4": "Mining", "5": "Lumber or woodworking",
+                "6": "Shipbuilding or sailing", "7": "Weaving, dyeing, or textiles", "8": "Smithing or jewelrymaking", "9": "Crafting specialty food or drink", "10": "Luxuries",
+                "11": "Mechanical craft", "12": "Engineering", "13": "Entertainment or the arts", "14": "Specialty craft", "15": "Scholarship and knowledge",
+                "16": "Religious service or instruction", "17": "Banking or finance", "18": "Merchant trade", "19": "Smuggling or illicit trade", "20": "Military"
+            },
+            "quirk": {
+                "1": "Colors and patterns with special meaning", "2": "Elaborate murals or public art forms", "3": "Strong oral tradition (e.g., myths, poetry)", "4": "Clockwork precision and scheduling",
+                "5": "Belief in household spirits, sacred animals, or special charms and talismans", "6": "Harmless cultural taboo (for example, never use a person’s given name)",
+                "7": "Elaborate festivals with special masks or costumes", "8": "Inverted hierarchy where children make community decisions", "9": "Strange death and burial customs",
+                "10": "Strict hygiene and cleanliness rules", "11": "Dialect unintelligible to outsiders", "12": "Body mods such as piercings or tattoos"
+            },
+            "crisis": {
+                "1": "Crime or banditry", "2": "Famine or drought", "3": "Disease or plague", "4": "Flood or fire", "5": "Political strife",
+                "6": "Religious schism", "7": "Wild beasts or monsters", "8": "Curse or other magical disaster", "9": "Scarcity of a resource vital to key industry or trade", "10": "Hostile neighbors"
+            },
+            "drive": {
+                "1": "Recognition or redemption", "2": "Holiness or religious purity", "3": "Preserving tradition", "4": "Security or protection", "5": "Scientific or magical achievement",
+                "6": "Vendetta or rivalry", "7": "Prosperity or abundance", "8": "War or conquest", "9": "Survival or expansion", "10": "Knowledge or discovery"
+            },
+            "politics": { "1": "Inherited leadership", "2": "Council of elders", "3": "Religious order", "4": "Military leader", "5": "Merchant guild", "6": "Family or clan assembly", "7": "Elected officials", "8": "Multiple (roll twice and combine)" },
+            "size": { "1": "Isolated dwelling", "2": "Hamlet", "3": "Village", "4": "Small town", "5": "Large town", "6": "City" },
+            "population": { "1": "Sparse", "2": "Stable", "3": "Full", "4": "Crowded" }
+        },
+        "Chat": {
+            "Journey": "The Journey",
+            "KeyMap": "GM's Key Map",
+            "Travel": "{days} day(s) of travel ({terrain}).",
+            "Total": "Day {days} of the journey",
+            "Sanctuary": "A sanctuary: the party can take a long rest here.",
+            "EncounterDice": "Encounter Dice: {count}d{faces}",
+            "NoEncounter": "No 1s: no encounter, unless you spend a Fear.",
+            "SpendFear": "Spend a Fear: encounter",
+            "FearSpent": "A Fear spent: encounter!",
+            "NoFear": "You have no Fear to spend.",
+            "EncounterPrepared": "Encounter! The one you prepared for this region:",
+            "EncounterNew": "Encounter! This region's encounter has already happened, so here's a new one:",
+            "FearPerPC": "Gain a Fear per PC",
+            "FearGained": "You gain {n} Fear.",
+            "HopeEach": "Each PC gains a Hope",
+            "HopeGained": "Good fortune: {names} each gain a Hope.",
+            "EchoHere": "A Soul Echo waits at this sanctuary's shrine.",
+            "Rumor": "Rumor",
+            "ShareRumor": "Tell the players",
+            "RumorHeard": "A rumor about this region"
+        },
+        "Endurance": {
+            "Title": "Endurance Countdowns",
+            "Stress": "marks a Stress",
+            "Tick": "countdown {n}",
+            "Triggered": "exhausted: Vulnerable until the next rest"
+        },
+        "Rest": {
+            "NeedLong": "The party has taken three short rests in a row. Their next rest must be a long rest, in a sanctuary.",
+            "LongOnlySanctuary": "In Journey to Horizon the party can take a long rest only in a sanctuary.",
+            "ShortTaken": "The party spends a day in camp: short rest {n} of {max} before they need a sanctuary.",
+            "LongTaken": "The party spends a few days recovering in {name}: long rest."
+        },
+        "Echo": {
+            "Collected": "The Soul Echo of {name}",
+            "Count": "The Vessel of Light now holds {n} of 10 Soul Echoes.",
+            "LevelUp": "The party advances to level {level}.",
+            "AllCollected": "All ten Echoes sing together. It's time to carry the Vessel to the Cliffs of Horizon.",
+            "LocateTitle": "Locate Soul Echoes",
+            "Locate": "communes with the Vessel of Light. The Echoes call out to their sisters: the nearest one sings from the {direction}.",
+            "LocateHorizon": "communes with the Vessel of Light. Every Echo is gathered; together they sing toward Horizon, to the {direction}.",
+            "SeekersHear": "The Echoes sang (toward the {direction}). At your discretion, nearby Seekers-in-Shadow heard the song and now know the Vessel's general direction.",
+            "NoMap": "There's no Horizon map with the party on it yet."
+        },
+        "Downtime": {
+            "Locate": {
+                "Name": "Locate Soul Echoes",
+                "Description": "Commune with the Vessel and have the Echoes within call out to their sisters. You learn the direction (north, south, east, west, or a combination) of the nearest sanctuary with a Soul Echo at its shrine. At the GM's discretion, this alerts nearby Seekers-in-Shadow of the Vessel's general direction as well."
+            }
+        },
+        "Condition": {
+            "Cleared": "{name} is no longer {condition}.",
+            "frostbitten": { "Name": "Frostbitten", "Short": "−1 to Proficiency until you spend a Hope to clear this condition." },
+            "nauseated": { "Name": "Nauseated", "Short": "You can't gain Hope until you clear a HP.", "Blocked": "{name} is Nauseated and can't gain Hope." }
+        },
+        "Journey": {
+            "Echoes": "Soul Echoes",
+            "LevelTier": "Level {level} · Tier {tier}",
+            "InSanctuary": "In a sanctuary",
+            "Days": "days",
+            "Hexes": "hexes",
+            "Rests": "Rests",
+            "ShortRests": "{n} of {max} short rests since the last long rest",
+            "LongHere": "The party can take a long rest here.",
+            "ShortOnly": "In the wilderness the party can take only short rests, a full day each.",
+            "ShortRest": "Short rest",
+            "LongRest": "Long rest",
+            "Travel": "Travel",
+            "Mode": "Traveling",
+            "MoveHint": "Move the party token one hex at a time (or farther: each hex on the way is entered in turn). Entering an ocean hex goes by ship and rolls the weather. Going by boat on rivers is up to you: pick it here when the waterway is navigable.",
+            "PlayerHint": "Move the party token to travel. The party knows the hex it's in and the hexes around it.",
+            "NearestEcho": "Nearest Soul Echo: {name}, {distance} hexes to the {direction}.",
+            "EnduranceOn": "Endurance Countdowns are on.",
+            "Log": "Travel log",
+            "NoMap": "The GM hasn't drawn the map of New Valloren yet."
+        },
+        "Doom": {
+            "Title": "Doom Track",
+            "Intro": "The disasters that befall New Valloren while Aurelia stays dead. At the end of each session the GM marks a box in the party's tier or below; a nested box can't be marked before the box it's nested under.",
+            "GMHint": "The printed Doom Track is in the Hope & Fear appendix and at daggerheart.com/downloads. Type its events into the boxes (or your own). Mark more boxes when evil spreads unopposed, or skip a session when the heroes buy time.",
+            "EndSession": "End of session",
+            "EndSessionHint": "Mark a box in the party's tier or below, and bring its event into the next session.",
+            "Rules": "Rules",
+            "Reset": "Reset track",
+            "ResetConfirm": "Clear the Doom Track and start over with the default boxes?",
+            "Tier": "Tier {n}",
+            "PartyTier": "party's tier",
+            "Add": "Add a box",
+            "AddNested": "Add a nested box",
+            "Remove": "Remove",
+            "Mark": "Mark this box",
+            "Unmark": "Unmark",
+            "Marked": "Doom draws closer",
+            "NewEvent": "A new disaster…",
+            "TooHigh": "Only boxes in the party's tier or below can be marked.",
+            "NestedFirst": "Mark the box this one is nested under first.",
+            "Default": {
+                "T1": { "a": "Shadowblight seeps from a nearby crater, graying the land around it.", "a1": "A new settlement is overtaken by surging wilderness.", "b": "Travelers trade stories of nearby Seeker sightings.", "b1": "A Seeker-in-Shadow tracks the party's trail.", "c": "Cultists of the Two-Headed Coin preach openly in a sanctuary." },
+                "T2": { "a": "A Seeker drains the terrana of a whole region, leaving a wound of shadowblight.", "a1": "Shadowblighted beasts stalk the roads near a sanctuary.", "b": "The Fellsworn Templars learn where the party is headed.", "b1": "A templar agent infiltrates a sanctuary ahead of the party.", "c": "A sanctuary flies the banner of the Two-Headed Coin.", "c1": "The Aurelian Order there is driven out or goes into hiding." },
+                "T3": { "a": "Acid storms and life-draining fog spread across the land.", "a1": "A sanctuary falls to shadowblight.", "b": "The Seekers grow stronger, wearing the shapes of the lands they devoured.", "b1": "A Seeker lays siege to a sanctuary that holds a Soul Echo.", "c": "Fellsworn Templars take a sanctuary by force.", "c1": "They seek the Soul Echo hidden in its shrine." },
+                "T4": { "a": "The sky darkens over the Cliffs of Horizon.", "a1": "Shadowblight creeps toward Aurelia's remains.", "b": "The cult begins the ritual to bring back the Lovers.", "b1": "Yrska and Drago stir.", "c": "The last free sanctuaries close their gates in fear.", "c1": "Faith in Aurelia nearly dies out." }
+            }
+        }
+    }
+}

@@ -1,0 +1,528 @@
+{
+  "_id": "dhhzTblTrade0000",
+  "name": "Sanctuary: Trade and Exports (d20)",
+  "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+  "description": "",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "XrZQjkzwqlDjUqBY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Farming",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.XrZQjkzwqlDjUqBY"
+    },
+    {
+      "_id": "8MagFp3hkP7oBAfa",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Herding, husbandry, or taming",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.8MagFp3hkP7oBAfa"
+    },
+    {
+      "_id": "nxSXuRe9y5TaYSHM",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Fishing, hunting, or trapping",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.nxSXuRe9y5TaYSHM"
+    },
+    {
+      "_id": "bhCrwGqH3bjdkE6P",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Mining",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.bhCrwGqH3bjdkE6P"
+    },
+    {
+      "_id": "P4DlGkDnX31WcpJh",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Lumber or woodworking",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.P4DlGkDnX31WcpJh"
+    },
+    {
+      "_id": "ujoZMuyLjJ9Mb3Aw",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Shipbuilding or sailing",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.ujoZMuyLjJ9Mb3Aw"
+    },
+    {
+      "_id": "oZsSVyN6Z9CaNmYI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Weaving, dyeing, or textiles",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.oZsSVyN6Z9CaNmYI"
+    },
+    {
+      "_id": "bycGDo6i1hwhkjDY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Smithing or jewelrymaking",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.bycGDo6i1hwhkjDY"
+    },
+    {
+      "_id": "USfGHooCqXOdGfbH",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Crafting specialty food or drink",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.USfGHooCqXOdGfbH"
+    },
+    {
+      "_id": "AwB1DRUNa5YIQhh2",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Luxuries",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.AwB1DRUNa5YIQhh2"
+    },
+    {
+      "_id": "Os6mTMIDhxnV1cjf",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Mechanical craft",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.Os6mTMIDhxnV1cjf"
+    },
+    {
+      "_id": "woFVPQiftXgG8aLf",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "name": "Engineering",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.woFVPQiftXgG8aLf"
+    },
+    {
+      "_id": "9jSEFAgFJZ0tHuk4",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "name": "Entertainment or the arts",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.9jSEFAgFJZ0tHuk4"
+    },
+    {
+      "_id": "F8eapMIBm8FuVLrr",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "name": "Specialty craft",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.F8eapMIBm8FuVLrr"
+    },
+    {
+      "_id": "KVMbbfI4CJ5AZesm",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "name": "Scholarship and knowledge",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.KVMbbfI4CJ5AZesm"
+    },
+    {
+      "_id": "LoSzmpVRalmCA2gS",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "name": "Religious service or instruction",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.LoSzmpVRalmCA2gS"
+    },
+    {
+      "_id": "dnyOzFsEN5kRDwmj",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "name": "Banking or finance",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.dnyOzFsEN5kRDwmj"
+    },
+    {
+      "_id": "RhkVjh5aEfHZLQel",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "name": "Merchant trade",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.RhkVjh5aEfHZLQel"
+    },
+    {
+      "_id": "7RaJecsvatfd9h2R",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "name": "Smuggling or illicit trade",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.7RaJecsvatfd9h2R"
+    },
+    {
+      "_id": "GJiGnDsp28dU9r6x",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "name": "Military",
+      "description": "",
+      "img": "icons/commodities/currency/coins-assorted-mix-copper.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTrade0000.GJiGnDsp28dU9r6x"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblTrade0000"
+}

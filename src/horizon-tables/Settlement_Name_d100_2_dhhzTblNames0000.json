@@ -1,0 +1,2528 @@
+{
+  "_id": "dhhzTblNames0000",
+  "name": "Settlement Name (d100 × 2)",
+  "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+  "description": "<p>Roll a d100 twice and combine one element from each result to name a settlement, sanctuary, or other location (for example 44 + 03: Axehead; 14 + 90: Thorne’s Church).</p>",
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "AIxpNIDDj5b6KdW2",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Ale, All",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.AIxpNIDDj5b6KdW2"
+    },
+    {
+      "_id": "j5fWve73FpqlKPuP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Arth, Earth",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.j5fWve73FpqlKPuP"
+    },
+    {
+      "_id": "hXhTP9LsZbztTind",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Ash, Axe(l)",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.hXhTP9LsZbztTind"
+    },
+    {
+      "_id": "5SCjsrrLY8lDFBbN",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Bane, Blain",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.5SCjsrrLY8lDFBbN"
+    },
+    {
+      "_id": "3SD7ha2Scn58CHLd",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Barrow, Berry, Bear",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.3SD7ha2Scn58CHLd"
+    },
+    {
+      "_id": "8UMkyR6WLxYw4OKL",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Beach, Beck, Black",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.8UMkyR6WLxYw4OKL"
+    },
+    {
+      "_id": "GOIJx8KCuq4DfdE6",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Bog, Ball",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.GOIJx8KCuq4DfdE6"
+    },
+    {
+      "_id": "wayXG5bcemRkaoV9",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Bridge, Brook",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.wayXG5bcemRkaoV9"
+    },
+    {
+      "_id": "ApddK1YKteKei1cD",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Burn, Burl",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.ApddK1YKteKei1cD"
+    },
+    {
+      "_id": "VCaGVX5krNFjdDvq",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Bury, Borough",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.VCaGVX5krNFjdDvq"
+    },
+    {
+      "_id": "KCP9AX4ecYI1jQd2",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Bush, Bun",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.KCP9AX4ecYI1jQd2"
+    },
+    {
+      "_id": "vNa7MGGfEhygellg",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "name": "Care, Craft",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.vNa7MGGfEhygellg"
+    },
+    {
+      "_id": "t65pAvfmLD8OU0Mv",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "name": "Cath, Cot, Cawd",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.t65pAvfmLD8OU0Mv"
+    },
+    {
+      "_id": "VuY5EZTbPengUwdG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "name": "Church, Churn",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.VuY5EZTbPengUwdG"
+    },
+    {
+      "_id": "BtrLlCjkalmVRRph",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "name": "Circle, Curry",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.BtrLlCjkalmVRRph"
+    },
+    {
+      "_id": "u9Rct0dxMwS9heTg",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "name": "Clair, Clear",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.u9Rct0dxMwS9heTg"
+    },
+    {
+      "_id": "JuLxUNO9MpB8EM9j",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "name": "Cleft, Cliff",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.JuLxUNO9MpB8EM9j"
+    },
+    {
+      "_id": "b1PcDlgpNtmoJQzE",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "name": "Cor(e), Curse",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.b1PcDlgpNtmoJQzE"
+    },
+    {
+      "_id": "IEBxK1k7MNpkbrdr",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "name": "Crag, Craig, Krieg",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.IEBxK1k7MNpkbrdr"
+    },
+    {
+      "_id": "1FHvSfrZ8tzQibLJ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "name": "Croft, Cross",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.1FHvSfrZ8tzQibLJ"
+    },
+    {
+      "_id": "ZQH114RYfaGsCwBt",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "name": "Crow(n), Castle",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.ZQH114RYfaGsCwBt"
+    },
+    {
+      "_id": "JXmdR6yYFShgVZuv",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "name": "Dale, Down",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.JXmdR6yYFShgVZuv"
+    },
+    {
+      "_id": "N4uWOAdkgUwNps6h",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "name": "Dark, Dun, Dan",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.N4uWOAdkgUwNps6h"
+    },
+    {
+      "_id": "JZl1UD2uOzQCSZS1",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "name": "Deep, Dire",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.JZl1UD2uOzQCSZS1"
+    },
+    {
+      "_id": "Xptj9kToRgnErz1W",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "name": "Ditch, Dyn",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.Xptj9kToRgnErz1W"
+    },
+    {
+      "_id": "ZOojaQqQdGaqoOIT",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "name": "Eld, Elder",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.ZOojaQqQdGaqoOIT"
+    },
+    {
+      "_id": "OEpAan16Lu0xb3Cz",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "name": "Fall, Fell",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.OEpAan16Lu0xb3Cz"
+    },
+    {
+      "_id": "cGTA54GB2qwwbM8H",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "name": "Farm, Free",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.cGTA54GB2qwwbM8H"
+    },
+    {
+      "_id": "tg1AakhYfha81Ht8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "name": "Fen, Fin, Firth",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.tg1AakhYfha81Ht8"
+    },
+    {
+      "_id": "TRNCBk3h5xxEcRx5",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "name": "Ferry, Field",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.TRNCBk3h5xxEcRx5"
+    },
+    {
+      "_id": "UxEUwXp2BsFBd5Sh",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "name": "Fold, Ford",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.UxEUwXp2BsFBd5Sh"
+    },
+    {
+      "_id": "FOpwOmRwYd3oQk3D",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "name": "Foot, Fort",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.FOpwOmRwYd3oQk3D"
+    },
+    {
+      "_id": "tTzV0v5sEAR8WCSH",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "name": "Gard(en), Garth",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.tTzV0v5sEAR8WCSH"
+    },
+    {
+      "_id": "TjsFyS0nRKBP93S3",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "name": "Gast, Ghost",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.TjsFyS0nRKBP93S3"
+    },
+    {
+      "_id": "aK3ilMIMNdoq1U2s",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "name": "Gate, Gain",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.aK3ilMIMNdoq1U2s"
+    },
+    {
+      "_id": "l24yqqDdZ10ixvPa",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "name": "Glass, Glist",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.l24yqqDdZ10ixvPa"
+    },
+    {
+      "_id": "6v0QagDQ89yOvxyf",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "name": "Glen, Glow",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.6v0QagDQ89yOvxyf"
+    },
+    {
+      "_id": "ONMHEJj08qJJxo4P",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "name": "Gold, Silver",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.ONMHEJj08qJJxo4P"
+    },
+    {
+      "_id": "dvz8aHjiJe6yN5WC",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "name": "Gower, Gorm",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.dvz8aHjiJe6yN5WC"
+    },
+    {
+      "_id": "EGWfhBSngsTdTBKI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "name": "Gray, Grove",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.EGWfhBSngsTdTBKI"
+    },
+    {
+      "_id": "hz1vhVidvxPgadE5",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "name": "Gully, Gil(l)",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.hz1vhVidvxPgadE5"
+    },
+    {
+      "_id": "2ug7HuDbNJdcsqaQ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "name": "Ham, Hay",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.2ug7HuDbNJdcsqaQ"
+    },
+    {
+      "_id": "tfpEujghEShKSASQ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "name": "H(e)aven",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.tfpEujghEShKSASQ"
+    },
+    {
+      "_id": "6yryEFuaagZUP4gt",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "name": "Head, Heath",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.6yryEFuaagZUP4gt"
+    },
+    {
+      "_id": "a6K9weI1pPXlX1MI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "name": "High, Hait",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.a6K9weI1pPXlX1MI"
+    },
+    {
+      "_id": "xiNiKpsGkaDgBUgP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "name": "Hill, Hell",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.xiNiKpsGkaDgBUgP"
+    },
+    {
+      "_id": "UI8AhOunD68mKhvx",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "name": "Hollow, Hold",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.UI8AhOunD68mKhvx"
+    },
+    {
+      "_id": "hLlOJP6gCptTODCr",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "name": "Holm, Home",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.hLlOJP6gCptTODCr"
+    },
+    {
+      "_id": "N18mn3bPmCLyCnVG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "name": "Holy, Hope",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.N18mn3bPmCLyCnVG"
+    },
+    {
+      "_id": "8tDbX11wWpV825r8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "name": "Hurst, Harm",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.8tDbX11wWpV825r8"
+    },
+    {
+      "_id": "8mAKqjdn1y1cI5gU",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "name": "Ill, Isle",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.8mAKqjdn1y1cI5gU"
+    },
+    {
+      "_id": "taorGLaegzDfeWMY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "name": "Ire, Iron",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.taorGLaegzDfeWMY"
+    },
+    {
+      "_id": "WpM9tRLITV5zQxiS",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "name": "Kirk",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.WpM9tRLITV5zQxiS"
+    },
+    {
+      "_id": "TdffST9lk6P4EX8Z",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "name": "Knock",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.TdffST9lk6P4EX8Z"
+    },
+    {
+      "_id": "fAEtuNhISebjjgVu",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "name": "Law(n), Lane",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.fAEtuNhISebjjgVu"
+    },
+    {
+      "_id": "x7K3MQYZQr80RmQv",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "name": "Lee, Leigh",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.x7K3MQYZQr80RmQv"
+    },
+    {
+      "_id": "w8HBo3z19IpncR7S",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "name": "Lone, Low",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.w8HBo3z19IpncR7S"
+    },
+    {
+      "_id": "eaQdhhBNefZBnXZo",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "name": "Long, Lost",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.eaQdhhBNefZBnXZo"
+    },
+    {
+      "_id": "9HipgcHBoh81cHV4",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "name": "Mark, Market",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.9HipgcHBoh81cHV4"
+    },
+    {
+      "_id": "xsHf5iySC6XXc3xZ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "name": "Marsh",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.xsHf5iySC6XXc3xZ"
+    },
+    {
+      "_id": "OJJwPptIHQW8ZHvy",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "name": "Mead(ow)",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.OJJwPptIHQW8ZHvy"
+    },
+    {
+      "_id": "DkndnbtDxtQFEX0a",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "name": "Mill, Mail",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.DkndnbtDxtQFEX0a"
+    },
+    {
+      "_id": "qJphQdjx7PcSatkb",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "name": "Mint, Mist, Mast",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.qJphQdjx7PcSatkb"
+    },
+    {
+      "_id": "Q3v7MM1mi48sLdeH",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "name": "Mon(t), Mount",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.Q3v7MM1mi48sLdeH"
+    },
+    {
+      "_id": "YIERudQ4gM9GdSNc",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "name": "Moor, Moss",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.YIERudQ4gM9GdSNc"
+    },
+    {
+      "_id": "cg6UReIBklSiVcMB",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "name": "Oak, Ole",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.cg6UReIBklSiVcMB"
+    },
+    {
+      "_id": "Z2SUthYjM0pny5nW",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "name": "Pale, Pill",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.Z2SUthYjM0pny5nW"
+    },
+    {
+      "_id": "3Y9MjyLhYzsmgIlb",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "name": "Pen(na), Peel",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.3Y9MjyLhYzsmgIlb"
+    },
+    {
+      "_id": "1HYzhEeRaE1nZQFz",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "name": "Pike, Pest",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.1HYzhEeRaE1nZQFz"
+    },
+    {
+      "_id": "dD3f9woujLsrxNZ7",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "name": "Plain, Plough",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.dD3f9woujLsrxNZ7"
+    },
+    {
+      "_id": "yhDZMp6MAVAOkUub",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "name": "Port(er)",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.yhDZMp6MAVAOkUub"
+    },
+    {
+      "_id": "hAagiDtwWcmxl7r4",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "name": "Quarter, Quay",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.hAagiDtwWcmxl7r4"
+    },
+    {
+      "_id": "Ju1Lc1fupNgDx6x7",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "name": "Quill, Quip",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.Ju1Lc1fupNgDx6x7"
+    },
+    {
+      "_id": "aAIaVSZ8dCOQOIKy",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "name": "Rath, Rasp",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.aAIaVSZ8dCOQOIKy"
+    },
+    {
+      "_id": "XoFctgAxQ7VU2nyH",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "name": "Raven, Rook",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.XoFctgAxQ7VU2nyH"
+    },
+    {
+      "_id": "0InDqhBjlYa9WfWU",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "name": "Red, Rell",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.0InDqhBjlYa9WfWU"
+    },
+    {
+      "_id": "i4uAgoe1NBWd4N0b",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "name": "Rick, Rock",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.i4uAgoe1NBWd4N0b"
+    },
+    {
+      "_id": "X4LXr51LXh3NCEdH",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "name": "Ridge, Ritter",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.X4LXr51LXh3NCEdH"
+    },
+    {
+      "_id": "gAe2GgfxhQXH4dHA",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "name": "River, Ren",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.gAe2GgfxhQXH4dHA"
+    },
+    {
+      "_id": "a9005ZXp26cb8ZBs",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "name": "Road, Roan",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.a9005ZXp26cb8ZBs"
+    },
+    {
+      "_id": "xxzBTgsCyTw9xIvW",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "name": "Roe, Row",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.xxzBTgsCyTw9xIvW"
+    },
+    {
+      "_id": "xq3qadTCqVau7gtK",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "name": "Shade, Shay",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.xq3qadTCqVau7gtK"
+    },
+    {
+      "_id": "utP1wnaWZ8iANjdh",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "name": "Shire, Shore",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.utP1wnaWZ8iANjdh"
+    },
+    {
+      "_id": "t35wJSakIZdKoNyg",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "name": "Silk, Sill",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.t35wJSakIZdKoNyg"
+    },
+    {
+      "_id": "zg9bkCiwOFer8s1e",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "name": "Small, Shaw",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.zg9bkCiwOFer8s1e"
+    },
+    {
+      "_id": "HrPFUs86VqzWe3En",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "name": "Stoke, Stoat",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.HrPFUs86VqzWe3En"
+    },
+    {
+      "_id": "RJSJWSzHF8FE63ER",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "name": "Straight, Strath",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.RJSJWSzHF8FE63ER"
+    },
+    {
+      "_id": "TdNIbUTkQGjaazNA",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "name": "Stream, Strain",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.TdNIbUTkQGjaazNA"
+    },
+    {
+      "_id": "d5ALJv2hNt5e3nVB",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "name": "Strong, Stone",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.d5ALJv2hNt5e3nVB"
+    },
+    {
+      "_id": "3OMHIF8EYMeZfYge",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "name": "Thorn(e), Thorp, Thane",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.3OMHIF8EYMeZfYge"
+    },
+    {
+      "_id": "sayvsXdcLMvRCIYY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "name": "Tree, Trace",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.sayvsXdcLMvRCIYY"
+    },
+    {
+      "_id": "XhI2HMgTYaqMzOu8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "name": "Up, Over",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.XhI2HMgTYaqMzOu8"
+    },
+    {
+      "_id": "6ACs8paq48JSdc0Z",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "name": "Vale, Valley, Vain",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.6ACs8paq48JSdc0Z"
+    },
+    {
+      "_id": "3oiWeGdo3oH59Pay",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "name": "Water, Waste, Wander",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.3oiWeGdo3oH59Pay"
+    },
+    {
+      "_id": "h8h4K5wjEclxSHPD",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "name": "Well, Will",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.h8h4K5wjEclxSHPD"
+    },
+    {
+      "_id": "ydhoC5xOL2acv6Tf",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "name": "Wes(t), E(a)st, Nor(th), South",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.ydhoC5xOL2acv6Tf"
+    },
+    {
+      "_id": "3xZoyg4ZRcgUFuns",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "name": "Whisper, Wood",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.3xZoyg4ZRcgUFuns"
+    },
+    {
+      "_id": "fjFpciN3vU8KCcDW",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "name": "White, With",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.fjFpciN3vU8KCcDW"
+    },
+    {
+      "_id": "omc6nPM6H057hsf3",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "name": "Wood, Wend",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.omc6nPM6H057hsf3"
+    },
+    {
+      "_id": "3N8SQj6cdGGan33o",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "name": "Yard, Yarn, Yor",
+      "description": "",
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblNames0000.3N8SQj6cdGGan33o"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblNames0000"
+}

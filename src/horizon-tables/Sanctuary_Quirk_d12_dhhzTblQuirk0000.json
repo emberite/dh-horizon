@@ -1,0 +1,328 @@
+{
+  "_id": "dhhzTblQuirk0000",
+  "name": "Sanctuary: Quirk (d12)",
+  "img": "icons/sundries/misc/mask-venetian-gold.webp",
+  "description": "",
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "VUtC5QI5RBuWjVez",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Colors and patterns with special meaning",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.VUtC5QI5RBuWjVez"
+    },
+    {
+      "_id": "IPGLSS6WY12lP529",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Elaborate murals or public art forms",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.IPGLSS6WY12lP529"
+    },
+    {
+      "_id": "m5itYiFOTOKdYcxr",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Strong oral tradition (e.g., myths, poetry)",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.m5itYiFOTOKdYcxr"
+    },
+    {
+      "_id": "riPjxD4vXt0qXsO8",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Clockwork precision and scheduling",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.riPjxD4vXt0qXsO8"
+    },
+    {
+      "_id": "cuPAdR0xe6IRI6kJ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Belief in household spirits, sacred animals, or special charms and talismans",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.cuPAdR0xe6IRI6kJ"
+    },
+    {
+      "_id": "JscOsvRc1uN9xp3o",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Harmless cultural taboo (for example, never use a person’s given name)",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.JscOsvRc1uN9xp3o"
+    },
+    {
+      "_id": "qbGxVDssICGLTss3",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Elaborate festivals with special masks or costumes",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.qbGxVDssICGLTss3"
+    },
+    {
+      "_id": "w71Yhuc84Hfz3Let",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Inverted hierarchy where children make community decisions",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.w71Yhuc84Hfz3Let"
+    },
+    {
+      "_id": "gWaZFG0xL492uoib",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Strange death and burial customs",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.gWaZFG0xL492uoib"
+    },
+    {
+      "_id": "x132tVujQXBbbNba",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Strict hygiene and cleanliness rules",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.x132tVujQXBbbNba"
+    },
+    {
+      "_id": "fWSOPQRC6WFfiReF",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Dialect unintelligible to outsiders",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.fWSOPQRC6WFfiReF"
+    },
+    {
+      "_id": "sIu7KwJzOCGoYdJ7",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "name": "Body mods such as piercings or tattoos",
+      "description": "",
+      "img": "icons/sundries/misc/mask-venetian-gold.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblQuirk0000.sIu7KwJzOCGoYdJ7"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblQuirk0000"
+}

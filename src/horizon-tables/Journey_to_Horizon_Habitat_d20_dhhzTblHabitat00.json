@@ -1,0 +1,328 @@
+{
+  "_id": "dhhzTblHabitat00",
+  "name": "Journey to Horizon: Habitat (d20)",
+  "img": "icons/environment/wilderness/tree-oak.webp",
+  "description": "",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "y4hlq4ejUE59KtGg",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Shadowblighted",
+      "description": "Roll again to determine which kind of habitat has been corrupted by fallen stars. If you roll another 1, the entire region has been completely overtaken and is nigh impossible to traverse.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.y4hlq4ejUE59KtGg"
+    },
+    {
+      "_id": "2XMuVhkhlj2u64jo",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Underground",
+      "description": "Caves, mines, fungal forests.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.2XMuVhkhlj2u64jo"
+    },
+    {
+      "_id": "MEWWzyBlz7inhE5s",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        4
+      ],
+      "name": "Aquatic",
+      "description": "Lake, sea, reef, delta.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.MEWWzyBlz7inhE5s"
+    },
+    {
+      "_id": "yQ94X7MVoxWObmag",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "name": "Wetland",
+      "description": "Swamp, marsh, bog, fen.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.yQ94X7MVoxWObmag"
+    },
+    {
+      "_id": "jDRhkm63SpC1A4sG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        8
+      ],
+      "name": "Grassland",
+      "description": "Plains, veldt, savannah.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.jDRhkm63SpC1A4sG"
+    },
+    {
+      "_id": "1C8WdgoRz2f4khkj",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        10
+      ],
+      "name": "Tropical",
+      "description": "Jungle, rainforest, mangrove.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.1C8WdgoRz2f4khkj"
+    },
+    {
+      "_id": "hPxdKhC954zbXOHI",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        12
+      ],
+      "name": "Forest",
+      "description": "Deciduous, evergreen, coniferous.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.hPxdKhC954zbXOHI"
+    },
+    {
+      "_id": "e9Tg4L3j8Rt2n0b9",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        14
+      ],
+      "name": "Drylands",
+      "description": "Desert, canyon, prairie, salt flat.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.e9Tg4L3j8Rt2n0b9"
+    },
+    {
+      "_id": "GmdKhSaDsvLow8qP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        16
+      ],
+      "name": "Rolling",
+      "description": "Hills, chaparral, moor, heath.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.GmdKhSaDsvLow8qP"
+    },
+    {
+      "_id": "rne73x8ioAWxk7Yn",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        18
+      ],
+      "name": "Mountain",
+      "description": "Plateau, montane, alpine.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.rne73x8ioAWxk7Yn"
+    },
+    {
+      "_id": "g6vtkrSkyOhYBWG0",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "name": "Frozen",
+      "description": "Tundra, taiga, glacier.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.g6vtkrSkyOhYBWG0"
+    },
+    {
+      "_id": "cpfXNltvXlTnyN4W",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "name": "Badlands",
+      "description": "Volcano, crystalline, barren.",
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblHabitat00.cpfXNltvXlTnyN4W"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblHabitat00"
+}

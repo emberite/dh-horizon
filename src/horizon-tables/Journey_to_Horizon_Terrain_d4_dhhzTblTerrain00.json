@@ -1,0 +1,128 @@
+{
+  "_id": "dhhzTblTerrain00",
+  "name": "Journey to Horizon: Terrain (d4)",
+  "img": "icons/environment/settlement/road-paved.webp",
+  "description": "",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "FFvmXgPybQlqmbU2",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Optimal",
+      "description": "Paved roads, stone highways or raised paths: about 1 day to enter a hex. More merchants, patrols and other travelers.",
+      "img": "icons/environment/settlement/road-paved.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTerrain00.FFvmXgPybQlqmbU2"
+    },
+    {
+      "_id": "FugwqZEIWBQgQtAx",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Fair",
+      "description": "Beaten trade roads, caravan paths or wilderness trails: about 2 days to enter a hex.",
+      "img": "icons/environment/settlement/road-paved.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTerrain00.FugwqZEIWBQgQtAx"
+    },
+    {
+      "_id": "2UqZDYPWCSvX9fI3",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Rough",
+      "description": "Narrow tracks, game trails or tangled undergrowth: about 3 days to enter a hex. Travelers risk getting lost, hazards and dangerous creatures.",
+      "img": "icons/environment/settlement/road-paved.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTerrain00.2UqZDYPWCSvX9fI3"
+    },
+    {
+      "_id": "xG3n4RWkObgDFU6V",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Extreme",
+      "description": "Cliff faces, quagmires, collapsing terrain or trackless wilds: about 4 days to enter a hex, often impossible without climbing gear, strong magic or sheer luck.",
+      "img": "icons/environment/settlement/road-paved.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblTerrain00.xG3n4RWkObgDFU6V"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblTerrain00"
+}

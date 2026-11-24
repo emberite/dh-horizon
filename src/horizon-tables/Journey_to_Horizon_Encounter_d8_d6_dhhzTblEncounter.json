@@ -1,0 +1,353 @@
+{
+  "_id": "dhhzTblEncounter",
+  "name": "Journey to Horizon: Encounter (d8 + d6)",
+  "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+  "description": "",
+  "formula": "1d8 + 1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "u7bTbzPQ6YXu6Xum",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Encounter 2",
+      "description": "Roll on this table twice and combine the resulting entries.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.u7bTbzPQ6YXu6Xum"
+    },
+    {
+      "_id": "RirhrnZ2EPkkWQAS",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Encounter 3",
+      "description": "The party crosses paths with fellow travelers, such as pilgrims, merchants, or explorers.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.RirhrnZ2EPkkWQAS"
+    },
+    {
+      "_id": "1BkdgAqJYmRq8TnL",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Encounter 4",
+      "description": "The party suffers a temporary setback, such as a dead end, bad omen, spoiled rations, or damaged tools. Optional: The GM gains a Fear for each PC.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.1BkdgAqJYmRq8TnL"
+    },
+    {
+      "_id": "xLB7KEshk6vbJKpR",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Encounter 5",
+      "description": "The Seekers-in-Shadow make their presence known, and the party must escape their grasp or stand and fight.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.xLB7KEshk6vbJKpR"
+    },
+    {
+      "_id": "vREJwOzWNCS37l7u",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Encounter 6",
+      "description": "An extreme weather event occurs, such as an earthquake, a forest fire, a thunderstorm, or a blizzard.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.vREJwOzWNCS37l7u"
+    },
+    {
+      "_id": "h0hcRsLVPMVCJzAN",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Encounter 7",
+      "description": "The party faces potential adversaries, such as bandits, brigands, or mercenaries—or discovers warning signs of their recent activity.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.h0hcRsLVPMVCJzAN"
+    },
+    {
+      "_id": "sUV874Xhkk4cgwy6",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Encounter 8",
+      "description": "The heroes find themselves in the lair or hunting grounds of a territorial beast or pack of creatures.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.sUV874Xhkk4cgwy6"
+    },
+    {
+      "_id": "R0vLbGysMyH3PLLb",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Encounter 9",
+      "description": "The heroes must overcome an environmental hazard or obstacle, such as a yawning chasm, rushing river, or quicksand.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.R0vLbGysMyH3PLLb"
+    },
+    {
+      "_id": "xlLFg7qslVkx84CR",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Encounter 10",
+      "description": "The party encounters members of the Cult of the Two-Headed Coin, their agents, or signs of their recent activity.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.xlLFg7qslVkx84CR"
+    },
+    {
+      "_id": "UcEUGHLZigmCJd08",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "name": "Encounter 11",
+      "description": "The party discovers a wondrous or dangerous site worth exploring, such as a ruin of Old Valloren or a place of magical power.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.UcEUGHLZigmCJd08"
+    },
+    {
+      "_id": "TX7sNpfpZS5LXqd5",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "name": "Encounter 12",
+      "description": "The party gains a bit of good fortune, such as a shortcut, good omen, helpful resource, or lucky break. Optional: Each PC gains a Hope.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.TX7sNpfpZS5LXqd5"
+    },
+    {
+      "_id": "JCKalWSyvOCGvtnS",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "name": "Encounter 13",
+      "description": "The party discovers a settlement or an outpost.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.JCKalWSyvOCGvtnS"
+    },
+    {
+      "_id": "4SQgYmIMieJ46EnG",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "name": "Encounter 14",
+      "description": "The party stumbles across a cache of loot or treasure.",
+      "img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "daggerheart",
+        "systemVersion": "2.12.7",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "_key": "!tables.results!dhhzTblEncounter.4SQgYmIMieJ46EnG"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "daggerheart",
+    "systemVersion": "2.12.7",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_key": "!tables!dhhzTblEncounter"
+}
