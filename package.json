@@ -5,7 +5,7 @@
   "scripts": {
     "build": "node tools/build-packs.mjs",
     "tiles": "python3 -I tools/slice-tiles.py ~/Downloads/fantasyhextiles_v3.png assets/tiles",
-    "test": "node --test tests/"
+    "test": "node --test tests/*.test.mjs"
   },
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "^3.0.0"
