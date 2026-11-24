@@ -20,7 +20,7 @@ export class HorizonApp extends HandlebarsApplicationMixin(ApplicationV2) {
         window: { title: 'DHHZ.App.Title', icon: 'fa-solid fa-map-location-dot', resizable: true },
         position: { width: 720, height: 760 },
         actions: {
-            tab: HorizonApp.#onTab,
+            hzTab: HorizonApp.#onTab,
             createMap: HorizonApp.#onCreateMap,
             randomSeed: HorizonApp.#onRandomSeed,
             prepareAll: HorizonApp.#onPrepareAll,
